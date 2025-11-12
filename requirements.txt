@@ -2,5 +2,8 @@ pandas
 numpy
 requests
 gprofiler-official
-
+mygene
+networkx
+matplotlib
+openpyxl
 

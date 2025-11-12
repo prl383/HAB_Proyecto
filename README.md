@@ -47,7 +47,7 @@ Se recomienda crear un entorno virtual para instalar las dependencias.
 ```bash
 # Crear un entorno virtual (opcional pero recomendado)
 python -m venv venv
-source venv/bin/activate  # En Windows: venv\Scripts\activate
+source venv\Scripts\activate  # En Linux: venv/bin/activate
 
 # Instalar las librerías necesarias
 pip install pandas matplotlib requests gprofiler-official networkx openpyxl mygene
@@ -88,7 +88,7 @@ ATP6
 Este comando ejecutará el análisis con g:Profiler, Enrichr y STRING, y guardará los resultados en la carpeta `results/`, incluyendo un Excel unificado.
 
 ```bash
-python scripts/analisis_funcional.py -i data/genes_input.txt -o results/ --excel
+python scripts\analisis_funcional.py -i data\genes_input.txt -o results\ --excel
 ```
 
 **3. Visualizar los resultados del enriquecimiento**
@@ -96,7 +96,7 @@ python scripts/analisis_funcional.py -i data/genes_input.txt -o results/ --excel
 Este comando leerá los CSV generados en el paso anterior y creará los gráficos de barras en `results/plots/`.
 
 ```bash
-python scripts/plot_results.py -d results/ -o results/plots/ --top 15
+python scripts\plot_results.py -d results\ -o results\plots\ --top 15
 ```
 
 ### Tarea 2: Propagación en Red
@@ -123,7 +123,7 @@ python scripts/plot_results.py -d results/ -o results/plots/ --top 15
 Este comando buscará `rwr_scores.csv` y/o `diamond_ranking.csv` en la carpeta `results/` y generará los gráficos correspondientes.
 
 ```bash
-python scripts/plot_propagation.py --dir results/ --outdir results/plots/ --top 20
+python scripts\plot_propagation.py --dir results\ --outdir results\plots\ --top 20
 ```
 
 ## Descripción de los Scripts
@@ -161,10 +161,81 @@ La subcarpeta `results/plots/` contendrá:
 ## Estructura del repositorio
 
 ```
-├── data/                # Archivos de entrada (lista de genes, redes, etc.)
-├── results/             # Resultados generados por el script
-├── scripts/             # Código fuente del proyecto
-├── docs/                # Documentación adicional (opcional)
-├── README.md            # Este archivo
-└── requirements.txt     # Dependencias del proyecto
+├── data/                                                  # Archivos de entrada (lista de genes, redes, etc.)
+│   └── genes\_input.txt                                   # Genes semilla
+│   └── string\_network\_filtered\_hugo-400.tsv            # Red de interacciones proteicas filtrada de STRING
+│   └── uniprot\_output.tsv                                # Lista de genes con IDs UniProt
+│   └── Allcontrasts\_GLM-Treat\_P-0.1\_FC-1.25\_2025-10-14\_16.57.27.tsv
+├── results/                                               # Resultados generados por el script
+│   └── plots/
+│   └── diamond\_ranking.csv
+│   └── enrichr\_GO\_Biological\_Process\_2023.csv
+│   └── enrichr\_KEGG\_2021\_Human.csv
+│   └── gprofiler\_enrichment.csv
+│   └── rwr\_scores.csv
+│   └── string\_enrichment.csv
+│   └── uniprot\_output.tsv
+├── scripts/                                               # Código fuente del proyecto
+│   └── analisis\_funcional.py
+│   └── example\_gene_conversion.py
+│   └── network\_propagation.py
+│   └── plot\_propagation.py
+│   └── plot\_results.py
+├── LICENSE
+├── README.md
+└── requirements.txt
+
 ```
+---
+
+## Referencias
+
+### Herramientas Científicas y Bases de Datos
+
+*   **g:Profiler:** Para el análisis de enriquecimiento funcional.
+    > Kolberg, L., Raudvere, U., Kuzmin, I., Vilo, J., & Peterson, H. (2023). g:Profiler—a web server for functional enrichment analysis and conversions of gene lists (2023 update). *Nucleic Acids Research*, 51(W1), W277-W282.
+
+*   **Enrichr:** Para el análisis de enriquecimiento utilizando las librerías del Ma'ayan Lab.
+    > Xie, Z., Bailey, A., Kuleshov, M. V., Clarke, D. J., Evangelista, J. E., Jenkins, S. L., ... & Ma'ayan, A. (2021). The Gene Set Library knowledge base for gene set enrichment analysis. *Bioinformatics*, 37(19), 3381-3383.
+
+*   **STRING Database:** Para la red de interacción proteína-proteína y su servicio de enriquecimiento. La versión 11.5 fue utilizada en este pipeline.
+    > Szklarczyk, D., Gable, A. L., Nastou, K. C., Lyon, D., Kirsch, R., Pyl, P. T., ... & Jensen, L. J. (2021). The STRING database in 2021: customizable protein–protein networks, and functional characterization of user-uploaded gene/measurement sets. *Nucleic Acids Research*, 49(D1), D605-D612.
+
+*   **MyGene.info:** Para la conversión de identificadores de genes.
+    > Xin, J., Mark, A., Afrasiabi, C., Tsueng, G., Juchli, M., Gopalakrishnan, K., ... & Wu, C. (2016). High-performance python web services for querying gene and variant annotation. *bioRxiv*, 095143.
+
+### Algoritmos de Propagación en Red
+
+*   **Random Walk with Restart (RWR):** El enfoque de "difusión" implementado se inspira en métodos como el utilizado en GUILD.
+    > Guney, E., Menche, J., Vidal, M., & Barábasi, A. L. (2016). Network-based in silico drug efficacy screening. *Nature communications*, 7(1), 1-13.
+
+*   **DIAMOnD (Disease Module Detection):** Para la identificación iterativa de proteínas relevantes basada en significancia conectiva.
+    > Ghiassian, S. D., Menche, J., & Barabási, A. L. (2015). A DIseAse MOdule Detection (DIAMOnD) algorithm derived from a systematic analysis of connectivity patterns of disease proteins in the human interactome. *PLoS computational biology*, 11(4), e1004120.
+
+### Software y Librerías
+
+El desarrollo de este pipeline no habría sido posible sin el ecosistema de computación científica de Python:
+
+*   **Pandas:** Para la manipulación y análisis de datos.
+*   **NetworkX:** Para la creación, manipulación y estudio de redes complejas.
+*   **Matplotlib:** Para la generación de visualizaciones y gráficos.
+*   **gprofiler-official, requests, openpyxl:** Para la interacción con APIs y la manipulación de ficheros.
+
+### Desarrollo y Asistencia con IA
+
+Parte del código, la estructura de los scripts y la documentación de este proyecto se desarrollaron con la asistencia de Inteligencia Artificial generativa. Se consultaron Modelos de Lenguaje Grandes (LLMs) como **ChatGPT** de OpenAI y **Gemini** de Google para:
+
+*   Generar código repetitivo (`boilerplate`) para funciones y clases.
+*   Refactorizar y optimizar bloques de código para mejorar su legibilidad y eficiencia.
+*   Sugerir estrategias para la depuración de errores.
+*   Redactar y formatear la documentación, incluyendo este fichero `README.md`.
+
+Los autores del proyecto ha revisado, validado y adaptado todo el contenido generado por la IA, y asume la total responsabilidad por la corrección y funcionalidad del código final.
+
+### Autores
+
+Este trabajo lo ha realizado:
+
+1. Anabel Yu Flores Moral
+2. Achraf Ousti El Moussati
+3. Patricia Rodríguez Lidueña

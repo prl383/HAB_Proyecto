@@ -5,7 +5,7 @@ Este proyecto contiene un pipeline bioinformático en Python para el análisis f
 ## Objetivo
 Desarrollar un script en Python que realice análisis funcional con propagación en redes a partir de una lista de genes diferencialmente expresados.
 
-## 📋 Características
+## Características
 
 *   **Análisis de Enriquecimiento Funcional:**
     *   Integración con **g:Profiler** (GO, KEGG, Reactome).
@@ -18,7 +18,7 @@ Desarrollar un script en Python que realice análisis funcional con propagación
 *   **Visualización de Resultados:** Generación automática de gráficos de barras en formato PNG para los resultados más significativos.
 *   **Salidas Organizadas:** Exportación de resultados en formatos tabulares (`.csv`) y unificado (`.xlsx`).
 
-## ⚙️ Flujo de Trabajo
+## Flujo de Trabajo
 
 El pipeline se divide en dos tareas principales que se pueden ejecutar de forma independiente:
 
@@ -34,7 +34,7 @@ El pipeline se divide en dos tareas principales que se pueden ejecutar de forma 
     *   **Salida (Datos):** `results/rwr_scores.csv` o `results/diamond_ranking.csv`.
     *   **Visualización:** `plot_propagation.py` lee los CSV de ranking y genera los gráficos `results/plots/*.png`.
 
-## 🚀 Instalación y Requisitos
+## Instalación y Requisitos
 
 ### Prerrequisitos
 
@@ -65,7 +65,7 @@ openpyxl
 mygene
 ```
 
-## 💻 Uso
+## Uso
 
 A continuación se muestran ejemplos de cómo ejecutar cada parte del pipeline desde la línea de comandos.
 
@@ -139,7 +139,7 @@ Este comando buscará `rwr_scores.csv` y/o `diamond_ranking.csv` en la carpeta `
 python scripts/plot_propagation.py --dir results/ --outdir results/plots/ --top 20
 ```
 
-## 📄 Descripción de los Scripts
+## Descripción de los Scripts
 
 *   `analisis_funcional.py`: Script principal para el análisis de enriquecimiento. Contacta las APIs de g:Profiler, Enrichr y STRING.
 *   `plot_results.py`: Visualiza los resultados del enriquecimiento. Genera gráficos de barras con los términos más significativos.
@@ -147,7 +147,7 @@ python scripts/plot_propagation.py --dir results/ --outdir results/plots/ --top 
 *   `plot_propagation.py`: Visualiza los resultados de la propagación. Genera gráficos de barras con los genes mejor clasificados.
 *   `example_gene_conversion.py`: Script de utilidad para convertir identificadores de genes (p. ej., de Símbolo HUGO a UniProt ID) usando `MyGene.info`.
 
-## 📂 Salidas Esperadas
+## Salidas Esperadas
 
 Después de ejecutar el pipeline completo, la carpeta `results/` contendrá:
 

@@ -1,0 +1,1338 @@
+term_id,term_name,preferred_names,category,fdr
+WP1984,Integrated breast cancer pathway,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",WikiPathways,7.23e-19
+PMID:23602933,(2013) MicroRNA and signal transduction pathways in tumor radiation response.,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,5.27e-16
+PMID:34142686,(2021) Multi-omics data integration reveals correlated regulatory features of triple negative breast cancer.,"MAPK1,CDK2,TP53,EGFR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,6.59e-16
+WP4172,PI3K-Akt signaling pathway,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",WikiPathways,8.87e-16
+PMID:27144894,(2016) Epigenetics of breast cancer: Modifying role of environmental and bioactive food compounds.,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,1.31e-15
+hsa04151,PI3K-Akt signaling pathway,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",KEGG,1.31e-15
+PMID:30985693,(2019) MicroRNA-related transcription factor regulatory networks in human colorectal cancer.,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,1.83e-15
+PMID:27765921,(2017) Triple-negative breast cancer: is there a treatment on the horizon?,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,1.83e-15
+PMID:33785035,(2021) Targeting AKT with costunolide suppresses the growth of colorectal cancer cells and induces apoptosis in vitro and in vivo.,"CDK2,TP53,EGFR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,1.83e-15
+PMID:23644885,(2013) Targeting signaling pathways in epithelial ovarian cancer.,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,1.83e-15
+PMID:28915711,(2017) Vitamin K and its analogs: Potential avenues for prostate cancer management.,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,MYC",PMID,1.83e-15
+PMID:28758107,(2017) Ganoderma spp.: A Promising Adjuvant Treatment for Breast Cancer.,"MAPK1,CDK2,TP53,EGFR,MTOR,BRCA1,AKT1,VEGFA,MYC",PMID,1.83e-15
+PMID:25909217,(2015) Targeting Hsp90 in urothelial carcinoma.,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,1.83e-15
+PMID:33767972,(2021) Overview of recent advances in metastatic triple negative breast cancer.,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,1.83e-15
+PMID:35163748,(2022) Human Papillomaviruses as Infectious Agents in Gynecological Cancers. Oncogenic Properties of Viral Proteins.,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,1.83e-15
+PMID:34977872,(2021) Targeting DNA repair pathway in cancer: Mechanisms and clinical application.,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,1.83e-15
+PMID:23050958,(2012) Cancer prevention as biomodulation: targeting the initiating stimulus and secondary adaptations.,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,MYC",PMID,1.83e-15
+PMID:33008042,(2020) The Warburg Effect 97 Years after Its Discovery.,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,2.22e-15
+PMID:21881167,(2011) Cooperative effects of Akt-1 and Raf-1 on the induction of cellular senescence in doxorubicin or tamoxifen treated breast cancer cells.,"MAPK1,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA,MYC",PMID,2.22e-15
+PMID:28117679,(2017) The Potential of Targeting Ribosome Biogenesis in High-Grade Serous Ovarian Cancer.,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,2.22e-15
+PMID:22979947,(2012) Nuclear Factor kappa B is central to Mareks disease herpesvirus induced neoplastic transformation of CD30 expressing lymphocytes in-vivo.,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,2.22e-15
+PMID:27681874,(2016) Functional characterization of AMP-activated protein kinase signaling in tumorigenesis.,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,2.22e-15
+PMID:30816492,(2019) Isoforms S and L of MRPL33 from alternative splicing have isoform-specific roles in the chemoresponse to epirubicin in gastric cancer cells via the PI3KAKT signaling pathway.,"MAPK1,CDK2,TP53,MTOR,PTEN,BRCA1,AKT1,MYC",PMID,2.22e-15
+PMID:22343668,"(2013) Signaling pathways as specific pharmacologic targets for neuroendocrine tumor therapy: RET, PI3K, MEK, growth factors, and Notch.","MAPK1,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA,MYC",PMID,2.22e-15
+PMID:34572805,(2021) Understanding the Radiobiology of Vestibular Schwannomas to Overcome Radiation Resistance.,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,2.22e-15
+PMID:31086113,(2019) A Comparison of DNA Mutation and Copy Number Profiles of Primary Breast Cancers and Paired Brain Metastases for Identifying Clinically Relevant Genetic Alterations in Brain Metastases.,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,2.22e-15
+PMID:25653541,(2015) Triple-negative breast cancer: new perspectives for targeted therapies.,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA",PMID,2.22e-15
+PMID:33671468,(2021) Molecular Biomarkers for Contemporary Therapies in Hormone Receptor-Positive Breast Cancer.,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,MYC",PMID,2.47e-15
+PMID:18671839,(2008) Molecular targeted therapies for breast cancer treatment.,"CDK2,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA,MYC",PMID,2.47e-15
+PMID:27655662,(2016) Anti-EGFR monoclonal antibodies and EGFR tyrosine kinase inhibitors as combination therapy for triple-negative breast cancer.,"MAPK1,CDK2,TP53,EGFR,PTEN,BRCA1,AKT1,MYC",PMID,2.78e-15
+PMID:21863131,(2011) Management options in triple-negative breast cancer.,"MAPK1,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA",PMID,2.78e-15
+PMID:26316937,(2012) Molecular Markers with Predictive and Prognostic Relevance in Lung Cancer.,"CDK2,TP53,EGFR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,3.13e-15
+PMID:34830902,(2021) Molecular Markers to Predict Prognosis and Treatment Response in Uterine Cervical Cancer.,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA",PMID,3.65e-15
+PMID:34885213,(2021) The Role of Long Non-Coding RNAs (lncRNAs) in Female Oriented Cancers.,"MAPK1,CDK2,TP53,EGFR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,3.65e-15
+PMID:30563141,(2018) An Overview on the Anticancer Activity of Azadirachta indica (Neem) in Gynecological Cancers.,"MAPK1,CDK2,TP53,EGFR,PTEN,AKT1,VEGFA,MYC",PMID,3.65e-15
+PMID:29853970,(2018) Network Pharmacology-Based Approach to Investigate the Mechanisms of Hedyotis diffusa Willd. in the Treatment of Gastric Cancer.,"MAPK1,CDK2,TP53,EGFR,MTOR,BRCA1,AKT1,VEGFA",PMID,3.65e-15
+PMID:33533004,(2021) MicroRNA: a novel implication for damage and protection against ionizing radiation.,"MAPK1,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA,MYC",PMID,3.86e-15
+PMID:33240440,(2020) The hallmarks of ovarian cancer: proliferation and cell growth.,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,MYC",PMID,4.48e-15
+PMID:23233865,(2012) Hepatitis B- and hepatitis C-related hepatocellular carcinomas in the United States: similarities and differences.,"CDK2,TP53,EGFR,MTOR,AKT1,VEGFA,MYC",PMID,7.27e-15
+PMID:35145999,"(2022) Triple-Negative Breast Cancer: A Brief Review About Epidemiology, Risk Factors, Signaling Pathways, Treatment and Role of Artificial Intelligence.","CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA",PMID,7.27e-15
+PMID:33808242,(2021) Role of Reductive versus Oxidative Stress in Tumor Progression and Anticancer Drug Resistance.,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,7.27e-15
+PMID:33915954,(2021) An Overview on Molecular Characterization of Thymic Tumors: Old and New Targets for Clinical Advances.,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,7.52e-15
+PMID:33922595,(2021) The PARP Enzyme Family and the Hallmarks of Cancer Part 1. Cell Intrinsic Hallmarks.,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,MYC",PMID,9.05e-15
+PMID:30018740,(2018) Integrative landscape of dysregulated signaling pathways of clinically distinct pancreatic cancer subtypes.,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,AKT1,MYC",PMID,9.05e-15
+PMID:31538426,(2019) Integrating a Next Generation Sequencing Panel into Clinical Practice in Ovarian Cancer.,"MAPK1,CDK2,TP53,EGFR,PTEN,BRCA1,AKT1,MYC",PMID,9.05e-15
+PMID:21779462,(2010) MYC and Breast Cancer.,"CDK2,TP53,EGFR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,9.05e-15
+PMID:32463358,(2020) Integrative analysis of large-scale loss-of-function screens identifies robust cancer-associated genetic interactions.,"MAPK1,CDK2,TP53,EGFR,PTEN,BRCA1,AKT1,MYC",PMID,9.05e-15
+PMID:34298667,(2021) Molecular Pathways and Druggable Targets in Head and Neck Squamous Cell Carcinoma.,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,9.41e-15
+PMID:31380247,(2019) The Chemopreventive Activity of Indonesia Medicinal Plants Targeting on Hallmarks of Cancer.,"CDK2,TP53,EGFR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,9.41e-15
+PMID:27773999,(2016) Role of Chemotherapy and Mechanisms of Resistance to Chemotherapy in Metastatic Castration-Resistant Prostate Cancer.,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,9.41e-15
+PMID:22583402,(2012) Cancer prevention with promising natural products: mechanisms of action and molecular targets.,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,9.74e-15
+PMID:29882812,"(2018) Pharmacological Targeting of Cell Cycle, Apoptotic and Cell Adhesion Signaling Pathways Implicated in Chemoresistance of Cancer Cells.","CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,1.01e-14
+PMID:31294537,(2019) ErbB-2 signaling in advanced prostate cancer progression and potential therapy,"MAPK1,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA,MYC",PMID,1.01e-14
+PMID:30558195,"(2018) Racial Disparity and Triple-Negative Breast Cancer in African-American Women: A Multifaceted Affair between Obesity, Biology, and Socioeconomic Determinants.","TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,1.13e-14
+PMID:24889535,(2014) Genetically engineered mice as experimental tools to dissect the critical events in breast cancer.,"CDK2,TP53,EGFR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,1.13e-14
+PMID:31861937,(2019) MicroRNA-Based Combinatorial Cancer Therapy: Effects of MicroRNAs on the Efficacy of Anti-Cancer Therapies.,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,MYC",PMID,1.19e-14
+PMID:28396911,(2017) Molecularly targeted therapies in cancer: a guide for the nuclear medicine physician.,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,1.23e-14
+PMID:30213113,(2018) Alterations of Signaling Pathways Related to the Immune System in Breast Cancer: New Perspectives in Patient Management.,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,1.23e-14
+PMID:22279619,(2012) Skp2 is a promising therapeutic target in breast cancer.,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,MYC",PMID,1.38e-14
+PMID:18821591,(2008) Molecular targeted therapies in hepatocellular carcinoma.,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,1.38e-14
+PMID:28187748,(2017) Characterization of ovarian clear cell carcinoma using target drug-based molecular biomarkers: implications for personalized cancer therapy.,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA",PMID,1.38e-14
+PMID:30103472,(2018) Magnolol: A Neolignan from the Magnolia Family for the Prevention and Treatment of Cancer.,"CDK2,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA,MYC",PMID,1.38e-14
+PMID:31671773,(2019) SL-BioDP: Multi-Cancer Interactive Tool for Prediction of Synthetic Lethality and Response to Cancer Treatment.,"MAPK1,TP53,EGFR,MTOR,PTEN,BRCA1,MYC",PMID,1.38e-14
+PMID:32570740,(2020) CDK12: A Potent Target and Biomarker for Human Cancer Therapy.,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,MYC",PMID,1.46e-14
+PMID:22006825,(2011) The two faces of FBW7 in cancer drug resistance.,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,1.46e-14
+PMID:26078352,(2015) Reactive oxygen species a double-edged sword for mesothelioma.,"MAPK1,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA,MYC",PMID,1.46e-14
+PMID:33114576,(2020) The Mechanisms of PD-L1 Regulation in Non-Small-Cell Lung Cancer (NSCLC): Which Are the Involved Players?,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,1.46e-14
+PMID:19417150,"(2009) XIII International Charles Heidelberger Symposium and 50 Years of Fluoropyrimidines in Cancer Therapy Held on september 6 to 8, 2007 at New York University Cancer Institute, Smilow Conference Center.","TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,1.46e-14
+PMID:34944973,(2021) Molecular Pathology of Human Papilloma Virus-Negative Cervical Cancers.,"MAPK1,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA,MYC",PMID,1.55e-14
+PMID:24504069,"(2014) First MNKs degrading agents block phosphorylation of eIF4E, induce apoptosis, inhibit cell growth, migration and invasion in triple negative and Her2-overexpressing breast cancer cell lines.","CDK2,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA",PMID,1.63e-14
+PMID:31662821,(2019) Precision medicine in gastric cancer.,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,1.73e-14
+PMID:25749195,(2015) Evasion of anti-growth signaling: A key step in tumorigenesis and potential target for treatment and prophylaxis by natural compounds.,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,1.95e-14
+PMID:33031826,(2020) CRISPRCas9: A powerful genome editing technique for the treatment of cancer cells with present challenges and future directions.,"MAPK1,TP53,EGFR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,1.95e-14
+PMID:32443845,(2020) Role and Mechanisms of RAGE-Ligand Complexes and RAGE-Inhibitors in Cancer Progression.,"CDK2,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA,MYC",PMID,1.95e-14
+PMID:26022660,(2015) The role of the PI3KAktmTOR signalling pathway in human cancers induced by infection with human papillomaviruses.,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA",PMID,1.95e-14
+PMID:33540286,(2021) Druggable targets meet oncogenic drivers: opportunities and limitations of target-based classification of tumors and the role of Molecular Tumor Boards.,"MAPK1,CDK2,TP53,EGFR,PTEN,BRCA1,AKT1,VEGFA",PMID,1.95e-14
+PMID:26221076,(2015) Targeting Apoptosis and Multiple Signaling Pathways with Icariside II in Cancer Cells.,"CDK2,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA,MYC",PMID,2.08e-14
+PMID:25493373,"(2015) The Role of Nutraceuticals in Pancreatic Cancer Prevention and Therapy: Targeting Cellular Signaling, MicroRNAs, and Epigenome.","TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,2.08e-14
+PMID:21556249,"(2009) Growth factor receptors and apoptosis regulators: signaling pathways, prognosis, chemosensitivity and treatment outcomes of breast cancer.","MAPK1,CDK2,TP53,EGFR,BRCA1,AKT1,VEGFA,MYC",PMID,2.08e-14
+PMID:32235364,(2020) Therapy-Induced Senescence: An Old Friend Becomes the Enemy.,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,2.08e-14
+PMID:33158279,(2020) Non-Coding RNAs: Uncharted Mediators of Thyroid Cancer Pathogenesis.,"MAPK1,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA,MYC",PMID,2.08e-14
+PMID:34691284,(2021) Exploring the Extracellular Vesicle MicroRNA Expression Repertoire in Patients with Rheumatoid Arthritis and Ankylosing Spondylitis Treated with TNF Inhibitors.,"MAPK1,TP53,EGFR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,2.08e-14
+PMID:31727671,(2019) Genomics and Targeted Therapies in Gastroesophageal Adenocarcinoma.,"CDK2,TP53,EGFR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,2.19e-14
+PMID:33078209,"(2021) Endothelial sprouting, proliferation, or senescence: tipping the balance from physiology to pathology.","MAPK1,CDK2,TP53,MTOR,PTEN,AKT1,VEGFA,MYC",PMID,2.19e-14
+PMID:22481935,(2012) Akt: a double-edged sword in cell proliferation and genome stability.,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,MYC",PMID,2.19e-14
+PMID:28503089,(2017) Anticancer Chemodiversity of Ranunculaceae Medicinal Plants: Molecular Mechanisms and Functions.,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,2.4e-14
+PMID:28791656,(2017) EGFR as a Target for Glioblastoma Treatment: An Unfulfilled Promise.,"TP53,EGFR,MTOR,PTEN,AKT1,VEGFA,MYC",PMID,2.4e-14
+PMID:26699919,(2016) ECGene: A Literature-Based Knowledgebase of Endometrial Cancer Genes.,"MAPK1,TP53,EGFR,PTEN,AKT1,VEGFA,MYC",PMID,2.4e-14
+PMID:32210335,(2020) OncoOmics approaches to reveal essential genes in breast cancer: a panoramic view from pathogenesis to precision medicine.,"MAPK1,CDK2,TP53,EGFR,PTEN,BRCA1,AKT1,VEGFA",PMID,2.4e-14
+PMID:32945490,(2020) Emerging role of circular RNA in intervertebral disc degeneration: Knowns and unknowns (Review).,"MAPK1,CDK2,TP53,MTOR,PTEN,AKT1,VEGFA,MYC",PMID,2.4e-14
+PMID:28184290,(2017) Recent Advances in Endometrial Cancer.,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA",PMID,2.4e-14
+PMID:24649216,(2013) The biology of uterine sarcomas: A review and update.,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,2.55e-14
+PMID:19610618,(2009) Inhibition of the insulin-like growth factor-1 receptor (IGF1R) tyrosine kinase as a novel cancer therapy approach.,"MAPK1,CDK2,TP53,EGFR,MTOR,AKT1,VEGFA,MYC",PMID,2.55e-14
+PMID:29068474,(2018) The PI3KAKT signaling pathway: Associations of miRNAs with dysregulated gene expression in colorectal cancer.,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,2.55e-14
+PMID:34909665,(2021) Prostate cancer: Therapeutic prospect with herbal medicine.,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,2.55e-14
+PMID:26185420,"(2015) Pancreatic cancer: optimizing treatment options, new, and emerging targeted therapies.","TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,2.55e-14
+PMID:28054957,(2017) Molecular Biomarkers for Prediction of Targeted Therapy Response in Metastatic Breast Cancer: Trick or Treat?,"CDK2,TP53,EGFR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,2.73e-14
+PMID:23983689,(2013) Neoadjuvant therapy in operable breast cancer: application to triple negative breast cancer.,"TP53,EGFR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,2.83e-14
+PMID:33266043,(2020) Pogostemon cablin Triggered ROS-Induced DNA Damage to Arrest Cell Cycle Progression and Induce Apoptosis on Human Hepatocellular Carcinoma In Vitro and In Vivo.,"CDK2,TP53,EGFR,PTEN,AKT1,VEGFA,MYC",PMID,2.83e-14
+PMID:32474568,(2020) Identification of the Active Compounds and Significant Pathways of Artemisia Annua in the Treatment of Non-Small Cell Lung Carcinoma based on Network Pharmacology.,"MAPK1,TP53,EGFR,PTEN,AKT1,VEGFA,MYC",PMID,2.83e-14
+PMID:29541939,"(2018) Analyses of repeated failures in cancer therapy for solid tumors: poor tumor-selective drug delivery, low therapeutic efficacy and unsustainable costs.","TP53,EGFR,MTOR,BRCA1,AKT1,VEGFA,MYC",PMID,2.83e-14
+PMID:19781107,(2009) Ovarian cancer mouse models: a summary of current models and their limitations.,"TP53,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",PMID,2.83e-14
+PMID:25786580,(2015) The impact of concomitant genomic alterations on treatment outcome for trastuzumab therapy in HER2-positive gastric cancer.,"CDK2,TP53,EGFR,MTOR,PTEN,AKT1,MYC",PMID,2.83e-14
+hsa05224,Breast cancer,"MAPK1,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,MYC",KEGG,8.64e-14
+hsa05230,Central carbon metabolism in cancer,"MAPK1,TP53,EGFR,MTOR,PTEN,AKT1,MYC",KEGG,1.24e-13
+hsa05206,MicroRNAs in cancer,"MAPK1,TP53,EGFR,MTOR,PTEN,BRCA1,VEGFA,MYC",KEGG,1.24e-13
+WP4262,Breast cancer pathway,"MAPK1,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,MYC",WikiPathways,1.76e-13
+WP4806,EGFR tyrosine kinase inhibitor resistance,"MAPK1,EGFR,MTOR,PTEN,AKT1,VEGFA,MYC",WikiPathways,6.35e-13
+WP2261,Glioblastoma signaling pathways,"MAPK1,CDK2,TP53,EGFR,PTEN,BRCA1,AKT1",WikiPathways,6.35e-13
+hsa05215,Prostate cancer,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,AKT1",KEGG,7.22e-13
+DOID:0080355,Hepatobiliary system cancer,"TP53,EGFR,PTEN,BRCA1,AKT1,VEGFA,MYC",DISEASES,2.85e-12
+hsa05200,Pathways in cancer,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA,MYC",KEGG,3.73e-12
+WP1971,Integrated cancer pathway,"CDK2,TP53,PTEN,BRCA1,AKT1,MYC",WikiPathways,4.79e-12
+hsa05213,Endometrial cancer,"MAPK1,TP53,EGFR,PTEN,AKT1,MYC",KEGG,7.98e-12
+hsa05226,Gastric cancer,"MAPK1,CDK2,TP53,EGFR,MTOR,AKT1,MYC",KEGG,7.98e-12
+hsa04218,Cellular senescence,"MAPK1,CDK2,TP53,MTOR,PTEN,AKT1,MYC",KEGG,8.19e-12
+hsa05165,Human papillomavirus infection,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA",KEGG,9.47e-12
+hsa05225,Hepatocellular carcinoma,"MAPK1,TP53,EGFR,MTOR,PTEN,AKT1,MYC",KEGG,1.04e-11
+hsa05212,Pancreatic cancer,"MAPK1,TP53,EGFR,MTOR,AKT1,VEGFA",KEGG,1.91e-11
+hsa05214,Glioma,"MAPK1,TP53,EGFR,MTOR,PTEN,AKT1",KEGG,1.91e-11
+hsa01521,EGFR tyrosine kinase inhibitor resistance,"MAPK1,EGFR,MTOR,PTEN,AKT1,VEGFA",KEGG,2.59e-11
+hsa05205,Proteoglycans in cancer,"MAPK1,TP53,EGFR,MTOR,AKT1,VEGFA,MYC",KEGG,3.04e-11
+hsa05210,Colorectal cancer,"MAPK1,TP53,EGFR,MTOR,AKT1,MYC",KEGG,3.04e-11
+WP4155,Endometrial cancer,"MAPK1,TP53,EGFR,PTEN,AKT1,MYC",WikiPathways,3.09e-11
+WP2374,Oncostatin M signaling pathway,"MAPK1,CDK2,TP53,MTOR,AKT1,VEGFA",WikiPathways,3.23e-11
+WP4674,Head and neck squamous cell carcinoma,"TP53,EGFR,MTOR,PTEN,AKT1,VEGFA",WikiPathways,5.14e-11
+hsa05163,Human cytomegalovirus infection,"MAPK1,TP53,EGFR,MTOR,AKT1,VEGFA,MYC",KEGG,5.56e-11
+WP4263,Pancreatic adenocarcinoma pathway,"MAPK1,TP53,EGFR,MTOR,AKT1,VEGFA",WikiPathways,1.37e-10
+WP673,ErbB signaling pathway,"MAPK1,TP53,EGFR,MTOR,AKT1,MYC",WikiPathways,1.51e-10
+DOID:305,Carcinoma,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",DISEASES,1.66e-10
+DOID:219,Colon cancer,"TP53,EGFR,AKT1,VEGFA,MYC",DISEASES,1.78e-10
+DOID:3118,Hepatobiliary disease,"TP53,EGFR,PTEN,BRCA1,AKT1,VEGFA,MYC",DISEASES,1.78e-10
+hsa05219,Bladder cancer,"MAPK1,TP53,EGFR,VEGFA,MYC",KEGG,2.67e-10
+DOID:0050686,Organ system cancer,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",DISEASES,5.34e-10
+WP4659,Gastrin signaling pathway,"MAPK1,EGFR,MTOR,AKT1,VEGFA,MYC",WikiPathways,5.44e-10
+WP2828,Bladder cancer,"MAPK1,TP53,EGFR,VEGFA,MYC",WikiPathways,6.65e-10
+hsa05160,Hepatitis C,"MAPK1,CDK2,TP53,EGFR,AKT1,MYC",KEGG,1.06e-09
+WP2586,Aryl hydrocarbon receptor Netpath,"MAPK1,CDK2,EGFR,VEGFA,MYC",WikiPathways,1.19e-09
+WP3646,Hepatitis C and hepatocellular carcinoma,"TP53,BRCA1,AKT1,VEGFA,MYC",WikiPathways,1.49e-09
+HSA-212436,Generic Transcription Pathway,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",RCTM,1.67e-09
+hsa05167,Kaposi sarcoma-associated herpesvirus infection,"MAPK1,TP53,MTOR,AKT1,VEGFA,MYC",KEGG,2.9e-09
+hsa05218,Melanoma,"MAPK1,TP53,EGFR,PTEN,AKT1",KEGG,3.28e-09
+DOID:77,Gastrointestinal system disease,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",DISEASES,3.89e-09
+WP3651,Pathways affected in adenoid cystic carcinoma,"TP53,PTEN,BRCA1,AKT1,MYC",WikiPathways,4.94e-09
+hsa05166,Human T-cell leukemia virus 1 infection,"MAPK1,CDK2,TP53,PTEN,AKT1,MYC",KEGG,5.35e-09
+WP2032,Thyroid stimulating hormone (TSH) signaling pathway,"MAPK1,CDK2,MTOR,AKT1,MYC",WikiPathways,5.39e-09
+WP3303,RAC1/PAK1/p38/MMP2 pathway,"MAPK1,TP53,EGFR,AKT1,MYC",WikiPathways,5.47e-09
+hsa04012,ErbB signaling pathway,"MAPK1,EGFR,MTOR,AKT1,MYC",KEGG,5.92e-09
+hsa05235,PD-L1 expression and PD-1 checkpoint pathway in cancer,"MAPK1,EGFR,MTOR,PTEN,AKT1",KEGG,7.51e-09
+GO:0051052,Regulation of DNA metabolic process,"MAPK1,CDK2,TP53,EGFR,BRCA1,AKT1,VEGFA,MYC",Process,8.09e-09
+hsa05222,Small cell lung cancer,"CDK2,TP53,PTEN,AKT1,MYC",KEGG,8.94e-09
+GOCC:1990455,PTEN phosphatase complex,"TP53,MTOR,PTEN,AKT1",COMPARTMENTS,9.98e-09
+GO:0051054,Positive regulation of DNA metabolic process,"MAPK1,CDK2,EGFR,BRCA1,AKT1,VEGFA,MYC",Process,1e-08
+hsa01522,Endocrine resistance,"MAPK1,TP53,EGFR,MTOR,AKT1",KEGG,1e-08
+GO:0080135,Regulation of cellular response to stress,"MAPK1,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,1e-08
+WP4018,Clear cell renal cell carcinoma pathways,"EGFR,MTOR,PTEN,AKT1,VEGFA",WikiPathways,1.62e-08
+WP5098,T-cell activation SARS-CoV-2,"MAPK1,TP53,MTOR,PTEN,AKT1",WikiPathways,1.63e-08
+hsa04066,HIF-1 signaling pathway,"MAPK1,EGFR,MTOR,AKT1,VEGFA",KEGG,1.64e-08
+DOID:1612,Breast cancer,"TP53,EGFR,PTEN,BRCA1,AKT1",DISEASES,2.13e-08
+BTO:0000180,Cervical carcinoma cell,"MAPK1,CDK2,EGFR,MTOR,BRCA1,AKT1,MYC",TISSUES,2.38e-08
+WP4658,Small cell lung cancer,"CDK2,TP53,PTEN,AKT1,MYC",WikiPathways,2.51e-08
+hsa04010,MAPK signaling pathway,"MAPK1,TP53,EGFR,AKT1,VEGFA,MYC",KEGG,2.61e-08
+hsa04919,Thyroid hormone signaling pathway,"MAPK1,TP53,MTOR,AKT1,MYC",KEGG,2.68e-08
+DOID:686,Liver carcinoma,"TP53,AKT1,VEGFA,MYC",DISEASES,3.41e-08
+hsa04068,FoxO signaling pathway,"MAPK1,CDK2,EGFR,PTEN,AKT1",KEGG,3.55e-08
+WP710,DNA damage response (only ATM dependent),"MAPK1,TP53,PTEN,AKT1,MYC",WikiPathways,4.86e-08
+GO:0042127,Regulation of cell population proliferation,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,5.74e-08
+WP2431,Spinal cord injury,"MAPK1,CDK2,TP53,EGFR,MYC",WikiPathways,6.02e-08
+WP3931,Embryonic stem cell pluripotency pathways,"MAPK1,EGFR,MTOR,PTEN,AKT1",WikiPathways,6.02e-08
+DOID:3996,Urinary system cancer,"TP53,MTOR,PTEN,VEGFA,MYC",DISEASES,6.98e-08
+GO:0033554,Cellular response to stress,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,7.51e-08
+WP3932,Focal adhesion: PI3K-Akt-mTOR-signaling pathway,"MAPK1,EGFR,MTOR,PTEN,AKT1,VEGFA",WikiPathways,7.81e-08
+DOID:170,Endocrine gland cancer,"TP53,EGFR,AKT1,VEGFA,MYC",DISEASES,8.52e-08
+GO:1902531,Regulation of intracellular signal transduction,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,9.94e-08
+hsa05161,Hepatitis B,"MAPK1,CDK2,TP53,AKT1,MYC",KEGG,1.03e-07
+DOID:120,Female reproductive organ cancer,"TP53,PTEN,BRCA1,AKT1,MYC",DISEASES,1.08e-07
+DOID:1793,Pancreatic cancer,"TP53,EGFR,AKT1,MYC",DISEASES,1.09e-07
+GO:1901699,Cellular response to nitrogen compound,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1",Process,1.14e-07
+WP4186,Somatroph axis (GH) and its relationship to dietary restriction and aging,"MTOR,PTEN,AKT1",WikiPathways,2.1e-07
+WP2203,Thymic stromal lymphopoietin (TSLP) signaling pathway,"MAPK1,MTOR,AKT1,MYC",WikiPathways,2.13e-07
+WP4539,Synaptic signaling pathways associated with autism spectrum disorder,"MAPK1,MTOR,PTEN,AKT1",WikiPathways,2.41e-07
+WP437,EGF/EGFR signaling pathway,"MAPK1,EGFR,MTOR,PTEN,AKT1",WikiPathways,2.42e-07
+WP363,Wnt signaling pathway,"MAPK1,MTOR,AKT1,MYC",WikiPathways,2.61e-07
+hsa04510,Focal adhesion,"MAPK1,EGFR,PTEN,AKT1,VEGFA",KEGG,2.9e-07
+GO:0071456,Cellular response to hypoxia,"TP53,MTOR,PTEN,AKT1,VEGFA,MYC",Process,2.95e-07
+hsa05221,Acute myeloid leukemia,"MAPK1,MTOR,AKT1,MYC",KEGG,3.15e-07
+hsa05223,Non-small cell lung cancer,"MAPK1,TP53,EGFR,AKT1",KEGG,3.43e-07
+WP4191,Caloric restriction and aging,"TP53,MTOR,AKT1",WikiPathways,3.46e-07
+hsa01524,Platinum drug resistance,"MAPK1,TP53,BRCA1,AKT1",KEGG,3.73e-07
+hsa05131,Shigellosis,"MAPK1,TP53,EGFR,MTOR,AKT1",KEGG,4.12e-07
+hsa05220,Chronic myeloid leukemia,"MAPK1,TP53,AKT1,MYC",KEGG,4.6e-07
+WP306,Focal adhesion,"MAPK1,EGFR,PTEN,AKT1,VEGFA",WikiPathways,5.56e-07
+HSA-1257604,PIP3 activates AKT signaling,"MAPK1,TP53,EGFR,MTOR,PTEN,AKT1",RCTM,6.29e-07
+HSA-1643685,Disease,"MAPK1,CDK2,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",RCTM,6.29e-07
+WP3680,Physico-chemical features and toxicity-associated pathways,"MAPK1,EGFR,AKT1,MYC",WikiPathways,6.36e-07
+WP4685,Melanoma,"MAPK1,TP53,PTEN,AKT1",WikiPathways,6.36e-07
+WP707,DNA damage response,"CDK2,TP53,BRCA1,MYC",WikiPathways,6.36e-07
+DOID:4947,Cholangiocarcinoma,"TP53,EGFR,PTEN,BRCA1",DISEASES,6.65e-07
+GO:0010628,Positive regulation of gene expression,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,6.98e-07
+WP1530,miRNA regulation of DNA damage response,"CDK2,TP53,BRCA1,MYC",WikiPathways,7.31e-07
+WP4255,Non-small cell lung cancer,"MAPK1,TP53,EGFR,AKT1",WikiPathways,7.93e-07
+GO:0043066,Negative regulation of apoptotic process,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,8e-07
+WP4216,Chromosomal and microsatellite instability in colorectal cancer ,"MAPK1,TP53,AKT1,MYC",WikiPathways,8.14e-07
+GO:0008284,Positive regulation of cell population proliferation,"MAPK1,CDK2,EGFR,MTOR,PTEN,AKT1,VEGFA,MYC",Process,8.7e-07
+WP2034,Leptin signaling pathway,"MAPK1,MTOR,PTEN,AKT1",WikiPathways,8.8e-07
+WP2037,Prolactin signaling pathway,"MAPK1,MTOR,AKT1,MYC",WikiPathways,9.03e-07
+GO:0070848,Response to growth factor,"MAPK1,TP53,EGFR,PTEN,AKT1,VEGFA,MYC",Process,9.33e-07
+HSA-6804757,Regulation of TP53 Degradation,"CDK2,TP53,MTOR,AKT1",RCTM,1.01e-06
+BTO:0000356,Breast cancer cell line,"TP53,EGFR,BRCA1,AKT1",TISSUES,1.02e-06
+GO:0045893,"Positive regulation of transcription, DNA-templated","MAPK1,CDK2,TP53,EGFR,MTOR,BRCA1,AKT1,VEGFA,MYC",Process,1.09e-06
+HSA-6807070,PTEN Regulation,"MAPK1,TP53,MTOR,PTEN,AKT1",RCTM,1.11e-06
+hsa05231,Choline metabolism in cancer,"MAPK1,EGFR,MTOR,AKT1",KEGG,1.16e-06
+WP382,MAPK signaling pathway,"MAPK1,TP53,EGFR,AKT1,MYC",WikiPathways,1.29e-06
+GO:0032270,Positive regulation of cellular protein metabolic process,"MAPK1,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,1.34e-06
+GO:0045786,Negative regulation of cell cycle,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,MYC",Process,1.35e-06
+GO:0051338,Regulation of transferase activity,"MAPK1,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA,MYC",Process,1.46e-06
+GO:0071417,Cellular response to organonitrogen compound,"MAPK1,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1",Process,1.46e-06
+GO:1901701,Cellular response to oxygen-containing compound,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1",Process,1.46e-06
+GO:0035556,Intracellular signal transduction,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,MYC",Process,1.46e-06
+WP138,Androgen receptor signaling pathway,"EGFR,PTEN,BRCA1,AKT1",WikiPathways,1.52e-06
+BTO:0001120,Epithelial cell line,"TP53,EGFR,AKT1,VEGFA,MYC",TISSUES,1.63e-06
+WP3879,"4-hydroxytamoxifen, Dexamethasone, and Retinoic Acids Regulation of p27 Expression","MAPK1,MTOR,AKT1",WikiPathways,1.72e-06
+GO:0051248,Negative regulation of protein metabolic process,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,1.74e-06
+HSA-3700989,Transcriptional Regulation by TP53,"CDK2,TP53,MTOR,PTEN,BRCA1,AKT1",RCTM,1.84e-06
+HSA-5633007,Regulation of TP53 Activity,"CDK2,TP53,MTOR,BRCA1,AKT1",RCTM,1.87e-06
+DOID:850,Lung disease,"TP53,EGFR,MTOR,PTEN,AKT1",DISEASES,1.95e-06
+GO:0050678,Regulation of epithelial cell proliferation,"EGFR,MTOR,PTEN,AKT1,VEGFA,MYC",Process,2.3e-06
+GO:0009628,Response to abiotic stimulus,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,2.3e-06
+GO:0070887,Cellular response to chemical stimulus,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,2.3e-06
+GO:0031399,Regulation of protein modification process,"MAPK1,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,2.3e-06
+hsa04071,Sphingolipid signaling pathway,"MAPK1,TP53,PTEN,AKT1",KEGG,2.36e-06
+GO:0040008,Regulation of growth,"MAPK1,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA",Process,2.39e-06
+HSA-5663202,Diseases of signal transduction by growth factor receptors and second messengers,"MAPK1,EGFR,MTOR,PTEN,AKT1,MYC",RCTM,2.41e-06
+GO:2000045,Regulation of G1/S transition of mitotic cell cycle,"CDK2,TP53,EGFR,PTEN,AKT1",Process,2.77e-06
+GO:0051347,Positive regulation of transferase activity,"MAPK1,EGFR,MTOR,PTEN,AKT1,VEGFA,MYC",Process,2.8e-06
+WP615,Senescence and autophagy in cancer,"MAPK1,TP53,MTOR,PTEN",WikiPathways,2.87e-06
+DOID:1324,Lung cancer,"TP53,EGFR,PTEN,AKT1",DISEASES,2.94e-06
+GOCC:0070013,Intracellular organelle lumen,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",COMPARTMENTS,2.94e-06
+GOCC:0005654,Nucleoplasm,"MAPK1,CDK2,TP53,MTOR,PTEN,BRCA1,AKT1,MYC",COMPARTMENTS,2.94e-06
+GO:0051726,Regulation of cell cycle,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,MYC",Process,3.07e-06
+GO:0031401,Positive regulation of protein modification process,"MAPK1,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA",Process,3.29e-06
+WP4141,PI3K/AKT/mTOR - VitD3 signaling,"MTOR,AKT1,MYC",WikiPathways,3.31e-06
+DOID:5520,Head and neck squamous cell carcinoma,"TP53,EGFR,PTEN",DISEASES,3.32e-06
+hsa04926,Relaxin signaling pathway,"MAPK1,EGFR,AKT1,VEGFA",KEGG,3.38e-06
+hsa04140,Autophagy - animal,"MAPK1,MTOR,PTEN,AKT1",KEGG,3.5e-06
+WP1539,Angiogenesis,"MAPK1,AKT1,VEGFA",WikiPathways,4.11e-06
+GO:0051173,Positive regulation of nitrogen compound metabolic process,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,4.11e-06
+WP4549,Fragile X syndrome,"MAPK1,MTOR,PTEN,AKT1",WikiPathways,4.37e-06
+GO:2000026,Regulation of multicellular organismal development,"MAPK1,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,4.4e-06
+WP205,IL-7 signaling pathway,"MAPK1,AKT1,MYC",WikiPathways,4.41e-06
+WP4483,"Relationship between inflammation, COX-2 and EGFR","MAPK1,EGFR,AKT1",WikiPathways,4.41e-06
+GO:1901990,Regulation of mitotic cell cycle phase transition,"CDK2,TP53,EGFR,PTEN,BRCA1,AKT1",Process,4.76e-06
+WP2035,Follicle stimulating hormone (FSH) signaling pathway,"MAPK1,MTOR,AKT1",WikiPathways,5.25e-06
+GO:2000377,Regulation of reactive oxygen species metabolic process,"TP53,EGFR,MTOR,BRCA1,AKT1",Process,5.29e-06
+hsa04072,Phospholipase D signaling pathway,"MAPK1,EGFR,MTOR,AKT1",KEGG,5.51e-06
+GO:0009314,Response to radiation,"TP53,EGFR,MTOR,BRCA1,AKT1,MYC",Process,5.64e-06
+GO:0050679,Positive regulation of epithelial cell proliferation,"EGFR,MTOR,AKT1,VEGFA,MYC",Process,5.65e-06
+GO:0006355,"Regulation of transcription, DNA-templated","MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,5.74e-06
+GO:0031325,Positive regulation of cellular metabolic process,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,5.98e-06
+hsa04150,mTOR signaling pathway,"MAPK1,MTOR,PTEN,AKT1",KEGG,5.98e-06
+GO:0051094,Positive regulation of developmental process,"MAPK1,TP53,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,5.98e-06
+WP366,TGF-beta signaling pathway,"MAPK1,TP53,AKT1,MYC",WikiPathways,6.02e-06
+GO:0045792,Negative regulation of cell size,"MTOR,PTEN,AKT1",Process,6.07e-06
+DOID:684,Hepatocellular carcinoma,"TP53,AKT1,MYC",DISEASES,6.45e-06
+hsa05216,Thyroid cancer,"MAPK1,TP53,MYC",KEGG,6.63e-06
+GO:0048584,Positive regulation of response to stimulus,"MAPK1,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,6.75e-06
+WP2870,Extracellular vesicle-mediated signaling in recipient cells,"EGFR,MTOR,AKT1",WikiPathways,6.77e-06
+WP3844,PI3K-AKT-mTOR signaling pathway and therapeutic opportunities,"MTOR,PTEN,AKT1",WikiPathways,6.77e-06
+GOCC:0045298,Tubulin complex,"TP53,AKT1,MYC",COMPARTMENTS,6.95e-06
+WP2363,Gastric cancer network 2,"TP53,EGFR,MYC",WikiPathways,7.15e-06
+hsa04630,JAK-STAT signaling pathway,"EGFR,MTOR,AKT1,MYC",KEGG,7.16e-06
+GO:0001932,Regulation of protein phosphorylation,"MAPK1,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA,MYC",Process,7.58e-06
+WP3981,miRNA regulation of prostate cancer signaling pathways,"MAPK1,TP53,MTOR",WikiPathways,8.37e-06
+WP244,Alpha 6 beta 4 signaling pathway,"MAPK1,MTOR,AKT1",WikiPathways,8.37e-06
+WP4838,Regucalcin in proximal tubule epithelial kidney cells,"MAPK1,MTOR,AKT1",WikiPathways,8.37e-06
+WP3676,BDNF-TrkB signaling,"MAPK1,MTOR,AKT1",WikiPathways,8.37e-06
+WP3850,Factors and pathways affecting insulin-like growth factor (IGF1)-Akt signaling,"MTOR,PTEN,AKT1",WikiPathways,9.22e-06
+GO:0071310,Cellular response to organic substance,"MAPK1,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,9.57e-06
+GO:0071363,Cellular response to growth factor stimulus,"MAPK1,TP53,EGFR,PTEN,AKT1,VEGFA",Process,9.66e-06
+GO:0032872,Regulation of stress-activated MAPK cascade,"MAPK1,EGFR,AKT1,VEGFA,MYC",Process,1e-05
+GO:0006915,Apoptotic process,"MAPK1,TP53,MTOR,PTEN,BRCA1,AKT1,MYC",Process,1e-05
+GO:0051128,Regulation of cellular component organization,"MAPK1,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,1.02e-05
+DOID:0060071,Pre-malignant neoplasm,"TP53,EGFR,BRCA1",DISEASES,1.06e-05
+WP481,Insulin signaling,"MAPK1,MTOR,PTEN,AKT1",WikiPathways,1.06e-05
+GO:0051172,Negative regulation of nitrogen compound metabolic process,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,1.08e-05
+WP2516,ATM signaling pathway,"CDK2,TP53,BRCA1",WikiPathways,1.21e-05
+GO:0034599,Cellular response to oxidative stress,"MAPK1,CDK2,TP53,EGFR,AKT1",Process,1.24e-05
+GO:0009887,Animal organ morphogenesis,"MAPK1,TP53,EGFR,MTOR,PTEN,VEGFA,MYC",Process,1.25e-05
+WP127,IL-5 signaling pathway,"MAPK1,AKT1,MYC",WikiPathways,1.28e-05
+DOID:3908,Lung non-small cell carcinoma,"TP53,EGFR,AKT1",DISEASES,1.37e-05
+WP49,IL-2 signaling pathway,"MAPK1,AKT1,MYC",WikiPathways,1.45e-05
+hsa05169,Epstein-Barr virus infection,"CDK2,TP53,AKT1,MYC",KEGG,1.46e-05
+HSA-5628897,TP53 Regulates Metabolic Genes,"TP53,MTOR,PTEN,AKT1",RCTM,1.5e-05
+BTO:0001530,Glioblastoma cell line,"TP53,EGFR,AKT1",TISSUES,1.66e-05
+BTO:0000426,Erythroleukemia cell,"MAPK1,MTOR,BRCA1,AKT1,MYC",TISSUES,1.66e-05
+GO:0001934,Positive regulation of protein phosphorylation,"MAPK1,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA",Process,1.68e-05
+hsa04015,Rap1 signaling pathway,"MAPK1,EGFR,AKT1,VEGFA",KEGG,1.7e-05
+WP4566,Translation inhibitors in chronically activated PDGFRA cells,"MAPK1,MTOR,AKT1",WikiPathways,1.74e-05
+BTO:0001912,Breast adenocarcinoma cell line,"TP53,EGFR,AKT1",TISSUES,1.77e-05
+BTO:0001271,Leukemia cell,"MAPK1,CDK2,TP53,MTOR,BRCA1,AKT1,MYC",TISSUES,1.77e-05
+BTO:0002553,Non-small cell lung cancer cell line,"TP53,EGFR,AKT1",TISSUES,1.77e-05
+BTO:0000167,Adenocarcinoma cell line,"TP53,EGFR,AKT1,MYC",TISSUES,1.77e-05
+GO:0045927,Positive regulation of growth,"MAPK1,EGFR,MTOR,AKT1,VEGFA",Process,1.78e-05
+GO:0032269,Negative regulation of cellular protein metabolic process,"TP53,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,1.84e-05
+GO:1902533,Positive regulation of intracellular signal transduction,"MAPK1,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA",Process,1.84e-05
+GO:0046620,Regulation of organ growth,"MAPK1,MTOR,PTEN,AKT1",Process,1.84e-05
+GO:0007568,Aging,"MAPK1,TP53,MTOR,PTEN,AKT1",Process,1.86e-05
+DOID:289,Endometriosis,"TP53,PTEN,AKT1",DISEASES,2.17e-05
+GO:0009888,Tissue development,"MAPK1,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA,MYC",Process,2.2e-05
+GO:0051240,Positive regulation of multicellular organismal process,"MAPK1,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,2.24e-05
+GO:2000379,Positive regulation of reactive oxygen species metabolic process,"TP53,EGFR,MTOR,AKT1",Process,2.24e-05
+hsa04370,VEGF signaling pathway,"MAPK1,AKT1,VEGFA",KEGG,2.26e-05
+GO:0090068,Positive regulation of cell cycle process,"CDK2,TP53,EGFR,BRCA1,AKT1",Process,2.33e-05
+WP3286,Copper homeostasis,"TP53,PTEN,AKT1",WikiPathways,2.45e-05
+hsa04014,Ras signaling pathway,"MAPK1,EGFR,AKT1,VEGFA",KEGG,2.53e-05
+WP4747,Netrin-UNC5B signaling pathway,"MAPK1,TP53,AKT1",WikiPathways,2.55e-05
+GO:0009416,Response to light stimulus,"TP53,EGFR,MTOR,AKT1,MYC",Process,2.57e-05
+BTO:0001614,Colorectal cell line,"TP53,AKT1,MYC",TISSUES,2.71e-05
+GO:0045930,Negative regulation of mitotic cell cycle,"CDK2,TP53,EGFR,PTEN,BRCA1",Process,2.76e-05
+GO:0043009,Chordate embryonic development,"MAPK1,TP53,EGFR,BRCA1,AKT1,VEGFA",Process,2.76e-05
+GO:0071496,Cellular response to external stimulus,"MAPK1,TP53,EGFR,MTOR,AKT1",Process,2.78e-05
+WP2795,Cardiac hypertrophic response,"MAPK1,MTOR,AKT1",WikiPathways,2.8e-05
+HSA-2219528,PI3K/AKT Signaling in Cancer,"EGFR,MTOR,PTEN,AKT1",RCTM,2.86e-05
+HSA-162582,Signal Transduction,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA,MYC",RCTM,2.86e-05
+HSA-6785807,Interleukin-4 and Interleukin-13 signaling,"TP53,AKT1,VEGFA,MYC",RCTM,2.86e-05
+GO:0071214,Cellular response to abiotic stimulus,"TP53,EGFR,PTEN,AKT1,MYC",Process,2.89e-05
+GO:2000278,Regulation of DNA biosynthetic process,"MAPK1,TP53,VEGFA,MYC",Process,2.89e-05
+WP2018,RANKL/RANK signaling pathway,"MAPK1,MTOR,AKT1",WikiPathways,2.91e-05
+GO:0045595,Regulation of cell differentiation,"MAPK1,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA,MYC",Process,2.98e-05
+GO:0010605,Negative regulation of macromolecule metabolic process,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,3.01e-05
+HSA-199418,Negative regulation of the PI3K/AKT network,"MAPK1,EGFR,PTEN,AKT1",RCTM,3.06e-05
+HSA-1640170,Cell Cycle,"MAPK1,CDK2,TP53,BRCA1,AKT1,MYC",RCTM,3.06e-05
+HSA-9634638,Estrogen-dependent nuclear events downstream of ESR-membrane signaling,"MAPK1,EGFR,AKT1",RCTM,3.19e-05
+DOID:10534,Stomach cancer,"TP53,EGFR,AKT1",DISEASES,3.25e-05
+GOCC:0097148,BCL-2 complex,"TP53,AKT1,MYC",COMPARTMENTS,3.26e-05
+hsa05211,Renal cell carcinoma,"MAPK1,AKT1,VEGFA",KEGG,3.32e-05
+GO:0048638,Regulation of developmental growth,"MAPK1,MTOR,PTEN,AKT1,VEGFA",Process,3.59e-05
+GO:1903829,Positive regulation of cellular protein localization,"MAPK1,TP53,EGFR,AKT1,VEGFA",Process,4.06e-05
+hsa04115,p53 signaling pathway,"CDK2,TP53,PTEN",KEGG,4.19e-05
+DOID:28,Endocrine system disease,"TP53,EGFR,BRCA1,AKT1,MYC",DISEASES,4.25e-05
+GOCC:0038201,TOR complex,"MTOR,PTEN,AKT1",COMPARTMENTS,4.4e-05
+WP45,G1 to S cell cycle control,"CDK2,TP53,MYC",WikiPathways,4.44e-05
+HP:0100615,Ovarian neoplasm,"TP53,PTEN,BRCA1,AKT1",HPO,4.58e-05
+HP:0100526,Neoplasm of the lung,"TP53,EGFR,PTEN,AKT1",HPO,4.58e-05
+HP:0000137,Abnormality of the ovary,"TP53,PTEN,BRCA1,AKT1,MYC",HPO,4.58e-05
+HP:0002861,Melanoma,"TP53,PTEN,BRCA1,AKT1",HPO,4.58e-05
+HP:0000957,Cafe-au-lait spot,"MAPK1,MTOR,PTEN,BRCA1,AKT1",HPO,4.58e-05
+HP:0007378,Neoplasm of the gastrointestinal tract,"TP53,MTOR,PTEN,BRCA1,AKT1",HPO,4.58e-05
+HP:0012718,Morphological abnormality of the gastrointestinal tract,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,MYC",HPO,4.58e-05
+HP:0033019,Male reproductive system neoplasm,"TP53,PTEN,BRCA1,AKT1",HPO,4.58e-05
+HP:0011024,Abnormality of the gastrointestinal tract,"MAPK1,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,MYC",HPO,4.58e-05
+HP:0011793,Neoplasm by anatomical site,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,MYC",HPO,4.58e-05
+HP:0005266,Intestinal polyp,"TP53,MTOR,PTEN,AKT1",HPO,4.58e-05
+HP:0003002,Breast carcinoma,"TP53,PTEN,BRCA1,AKT1",HPO,4.58e-05
+BTO:0000797,Colonic cancer cell line,"TP53,AKT1,MYC",TISSUES,4.6e-05
+GO:0034614,Cellular response to reactive oxygen species,"MAPK1,CDK2,EGFR,AKT1",Process,4.68e-05
+GO:0007167,Enzyme linked receptor protein signaling pathway,"MAPK1,TP53,EGFR,PTEN,AKT1,VEGFA",Process,4.69e-05
+WP2868,TCA cycle nutrient use and invasiveness of ovarian cancer,"MAPK1,EGFR",WikiPathways,4.77e-05
+WP2324,AGE/RAGE pathway,"MAPK1,EGFR,AKT1",WikiPathways,4.77e-05
+GO:0006464,Cellular protein modification process,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,MYC",Process,4.85e-05
+GO:0045596,Negative regulation of cell differentiation,"MAPK1,TP53,EGFR,PTEN,VEGFA,MYC",Process,4.85e-05
+GO:0043408,Regulation of MAPK cascade,"MAPK1,EGFR,PTEN,AKT1,VEGFA,MYC",Process,4.85e-05
+GO:0009968,Negative regulation of signal transduction,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,MYC",Process,4.85e-05
+GO:0048660,Regulation of smooth muscle cell proliferation,"EGFR,MTOR,PTEN,AKT1",Process,4.85e-05
+GO:0033044,Regulation of chromosome organization,"MAPK1,TP53,BRCA1,VEGFA,MYC",Process,4.85e-05
+WP1403,AMP-activated protein kinase (AMPK) signaling,"TP53,MTOR,AKT1",WikiPathways,5.07e-05
+BTO:0000744,Lymphocytic leukemia cell,"MAPK1,CDK2,TP53,BRCA1,AKT1",TISSUES,5.2e-05
+GO:0033043,Regulation of organelle organization,"MAPK1,TP53,MTOR,BRCA1,AKT1,VEGFA,MYC",Process,5.61e-05
+GO:0032147,Activation of protein kinase activity,"MAPK1,EGFR,MTOR,AKT1,VEGFA",Process,5.85e-05
+GO:0009411,Response to UV,"TP53,EGFR,AKT1,MYC",Process,5.85e-05
+WP3584,MECP2 and associated Rett syndrome,"MTOR,PTEN,AKT1",WikiPathways,5.9e-05
+WP2249,Metastatic brain tumor,"TP53,MYC",WikiPathways,6.02e-05
+GO:0033135,Regulation of peptidyl-serine phosphorylation,"EGFR,PTEN,AKT1,VEGFA",Process,6.07e-05
+GO:0016242,Negative regulation of macroautophagy,"TP53,MTOR,AKT1",Process,6.1e-05
+GO:0001701,In utero embryonic development,"MAPK1,TP53,EGFR,AKT1,VEGFA",Process,6.1e-05
+HP:0002597,Abnormality of the vasculature,"MAPK1,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,MYC",HPO,6.52e-05
+WP4754,IL-18 signaling pathway,"MAPK1,TP53,PTEN,VEGFA",WikiPathways,6.67e-05
+WP4016,DNA IR-damage and cellular response via ATR,"CDK2,TP53,BRCA1",WikiPathways,6.89e-05
+DOID:11054,Urinary bladder cancer,"TP53,PTEN,MYC",DISEASES,6.9e-05
+HP:0012125,Prostate cancer,"TP53,PTEN,BRCA1",HPO,6.98e-05
+HP:0002715,Abnormality of the immune system,"MAPK1,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,MYC",HPO,6.98e-05
+WP4538,Regulatory circuits of the STAT3 signaling pathway,"MAPK1,EGFR,MTOR",WikiPathways,7.06e-05
+hsa04211,Longevity regulating pathway,"TP53,MTOR,AKT1",KEGG,7.12e-05
+GO:0009653,Anatomical structure morphogenesis,"MAPK1,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA,MYC",Process,7.14e-05
+GO:0006974,Cellular response to DNA damage stimulus,"MAPK1,CDK2,TP53,BRCA1,AKT1,MYC",Process,7.14e-05
+GO:0071276,Cellular response to cadmium ion,"MAPK1,EGFR,AKT1",Process,7.74e-05
+GO:0007165,Signal transduction,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,7.74e-05
+GO:0048523,Negative regulation of cellular process,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,7.74e-05
+GO:0045859,Regulation of protein kinase activity,"MAPK1,EGFR,MTOR,PTEN,AKT1,VEGFA",Process,7.78e-05
+GO:0048732,Gland development,"MAPK1,EGFR,PTEN,AKT1,VEGFA",Process,7.85e-05
+GO:0022414,Reproductive process,"MAPK1,CDK2,EGFR,MTOR,PTEN,AKT1,VEGFA",Process,7.85e-05
+HP:0001053,Hypopigmented skin patches,"MTOR,PTEN,BRCA1,AKT1",HPO,8.16e-05
+WP1544,MicroRNAs in cardiomyocyte hypertrophy,"MAPK1,MTOR,AKT1",WikiPathways,8.35e-05
+DOID:363,Uterine cancer,"TP53,PTEN,AKT1",DISEASES,8.5e-05
+WP254,Apoptosis,"TP53,AKT1,MYC",WikiPathways,8.54e-05
+GO:0048608,Reproductive structure development,"MAPK1,EGFR,PTEN,AKT1,VEGFA",Process,8.66e-05
+HSA-8864260,Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors,"EGFR,VEGFA,MYC",RCTM,8.71e-05
+hsa04914,Progesterone-mediated oocyte maturation,"MAPK1,CDK2,AKT1",KEGG,8.75e-05
+GO:0001558,Regulation of cell growth,"TP53,EGFR,MTOR,AKT1,VEGFA",Process,8.91e-05
+WP2446,Retinoblastoma gene in cancer,"CDK2,TP53,MYC",WikiPathways,9.34e-05
+HP:0200063,Colorectal polyposis,"TP53,PTEN,AKT1",HPO,9.46e-05
+GO:0009725,Response to hormone,"MAPK1,EGFR,MTOR,PTEN,BRCA1,AKT1",Process,9.59e-05
+GO:0035295,Tube development,"MAPK1,EGFR,PTEN,AKT1,VEGFA,MYC",Process,9.62e-05
+GO:0030307,Positive regulation of cell growth,"EGFR,MTOR,AKT1,VEGFA",Process,9.62e-05
+hsa04933,AGE-RAGE signaling pathway in diabetic complications,"MAPK1,AKT1,VEGFA",KEGG,9.7e-05
+HP:0000163,Abnormal oral cavity morphology,"MAPK1,EGFR,PTEN,BRCA1,AKT1,MYC",HPO,0.0001
+GOCC:0005942,Phosphatidylinositol 3-kinase complex,"MTOR,PTEN,AKT1",COMPARTMENTS,0.00011
+GO:0018105,Peptidyl-serine phosphorylation,"MAPK1,CDK2,MTOR,AKT1",Process,0.00011
+GO:0010001,Glial cell differentiation,"MAPK1,EGFR,PTEN,AKT1",Process,0.00011
+HP:0100559,Lower limb asymmetry,"MAPK1,PTEN,AKT1",HPO,0.00011
+HP:0010788,Testicular neoplasm,"TP53,PTEN,AKT1",HPO,0.00011
+DOID:13482,Proteus syndrome,"PTEN,AKT1",DISEASES,0.00011
+GO:0072359,Circulatory system development,"MAPK1,TP53,MTOR,PTEN,AKT1,VEGFA",Process,0.00011
+DOID:263,Kidney cancer,"TP53,MTOR,VEGFA",DISEASES,0.00011
+GO:0030334,Regulation of cell migration,"MAPK1,EGFR,MTOR,PTEN,AKT1,VEGFA",Process,0.00011
+GO:0048639,Positive regulation of developmental growth,"MAPK1,MTOR,AKT1,VEGFA",Process,0.00011
+GO:0048568,Embryonic organ development,"MAPK1,TP53,EGFR,AKT1,VEGFA",Process,0.00011
+GO:0031667,Response to nutrient levels,"MAPK1,TP53,EGFR,MTOR,AKT1",Process,0.00011
+HP:0002242,Abnormal intestine morphology,"TP53,MTOR,PTEN,BRCA1,AKT1,MYC",HPO,0.00011
+GO:0008361,Regulation of cell size,"MTOR,PTEN,AKT1,VEGFA",Process,0.00012
+BTO:0002036,U-87MG cell,"EGFR,AKT1",TISSUES,0.00012
+hsa04931,Insulin resistance,"MTOR,PTEN,AKT1",KEGG,0.00012
+WP4746,Thyroid hormones production and peripheral downstream signaling effects,"MAPK1,TP53,MTOR",WikiPathways,0.00012
+GO:1901796,Regulation of signal transduction by p53 class mediator,"CDK2,TP53,BRCA1,AKT1",Process,0.00012
+GO:2001252,Positive regulation of chromosome organization,"MAPK1,TP53,BRCA1,VEGFA",Process,0.00012
+HP:0001871,Abnormality of blood and blood-forming tissues,"MAPK1,TP53,MTOR,PTEN,BRCA1,AKT1,MYC",HPO,0.00012
+GO:0014070,Response to organic cyclic compound,"MAPK1,EGFR,MTOR,PTEN,BRCA1,AKT1",Process,0.00013
+GO:0031641,Regulation of myelination,"MTOR,PTEN,AKT1",Process,0.00013
+GO:0070849,Response to epidermal growth factor,"MAPK1,EGFR,AKT1",Process,0.00013
+WP23,B cell receptor signaling pathway,"MAPK1,AKT1,MYC",WikiPathways,0.00013
+GO:0048699,Generation of neurons,"MAPK1,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA",Process,0.00013
+WP2815,Mammary gland development pathway - Involution (Stage 4 of 4),"TP53,MYC",WikiPathways,0.00013
+GO:0046622,Positive regulation of organ growth,"MAPK1,MTOR,AKT1",Process,0.00014
+HSA-449147,Signaling by Interleukins,"MAPK1,TP53,AKT1,VEGFA,MYC",RCTM,0.00014
+HP:0007400,Irregular hyperpigmentation,"MAPK1,PTEN,BRCA1,AKT1",HPO,0.00015
+GO:0003006,Developmental process involved in reproduction,"MAPK1,EGFR,MTOR,PTEN,AKT1,VEGFA",Process,0.00015
+hsa04722,Neurotrophin signaling pathway,"MAPK1,TP53,AKT1",KEGG,0.00015
+GO:0051972,Regulation of telomerase activity,"MAPK1,TP53,MYC",Process,0.00016
+GO:0006468,Protein phosphorylation,"MAPK1,CDK2,EGFR,MTOR,AKT1,MYC",Process,0.00016
+hsa04110,Cell cycle,"CDK2,TP53,MYC",KEGG,0.00016
+hsa04935,"Growth hormone synthesis, secretion and action","MAPK1,MTOR,AKT1",KEGG,0.00016
+DOID:9261,Nasopharynx carcinoma,"TP53,AKT1",DISEASES,0.00017
+DOID:2394,Ovarian cancer,"TP53,BRCA1,AKT1",DISEASES,0.00017
+GO:0031396,Regulation of protein ubiquitination,"MTOR,PTEN,BRCA1,AKT1",Process,0.00018
+GO:0016043,Cellular component organization,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,0.00018
+HSA-8939211,ESR-mediated signaling,"MAPK1,EGFR,AKT1,MYC",RCTM,0.00018
+HP:0000035,Abnormal testis morphology,"MAPK1,TP53,MTOR,PTEN,BRCA1,AKT1",HPO,0.00018
+GO:0090066,Regulation of anatomical structure size,"EGFR,MTOR,PTEN,AKT1,VEGFA",Process,0.00019
+GO:0007507,Heart development,"MAPK1,TP53,MTOR,PTEN,VEGFA",Process,0.00019
+BTO:0004483,Ovarian surface epithelium,"TP53,BRCA1",TISSUES,0.00019
+GO:0007417,Central nervous system development,"MAPK1,TP53,EGFR,MTOR,PTEN,AKT1",Process,0.00019
+GO:0007169,Transmembrane receptor protein tyrosine kinase signaling pathway,"MAPK1,EGFR,PTEN,AKT1,VEGFA",Process,0.00019
+BTO:0000599,Hep-G2 cell,"TP53,AKT1",TISSUES,0.00019
+GO:0071900,Regulation of protein serine/threonine kinase activity,"MAPK1,EGFR,PTEN,AKT1,VEGFA",Process,0.00019
+GO:0030335,Positive regulation of cell migration,"MAPK1,EGFR,MTOR,AKT1,VEGFA",Process,0.00019
+hsa04371,Apelin signaling pathway,"MAPK1,MTOR,AKT1",KEGG,0.0002
+hsa05418,Fluid shear stress and atherosclerosis,"TP53,AKT1,VEGFA",KEGG,0.0002
+GO:1901991,Negative regulation of mitotic cell cycle phase transition,"CDK2,TP53,PTEN,BRCA1",Process,0.0002
+hsa04210,Apoptosis,"MAPK1,TP53,AKT1",KEGG,0.0002
+GO:2001020,Regulation of response to DNA damage stimulus,"TP53,EGFR,BRCA1,MYC",Process,0.00021
+GO:0071345,Cellular response to cytokine stimulus,"MAPK1,TP53,BRCA1,AKT1,VEGFA,MYC",Process,0.00021
+GO:0010035,Response to inorganic substance,"MAPK1,CDK2,EGFR,PTEN,AKT1",Process,0.00021
+GO:0044249,Cellular biosynthetic process,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1",Process,0.00021
+hsa04910,Insulin signaling pathway,"MAPK1,MTOR,AKT1",KEGG,0.00021
+hsa04915,Estrogen signaling pathway,"MAPK1,EGFR,AKT1",KEGG,0.00021
+GO:0071241,Cellular response to inorganic substance,"MAPK1,CDK2,EGFR,AKT1",Process,0.00021
+WP179,Cell cycle,"CDK2,TP53,MYC",WikiPathways,0.00022
+HSA-9006934,Signaling by Receptor Tyrosine Kinases,"MAPK1,EGFR,MTOR,AKT1,VEGFA",RCTM,0.00022
+hsa05162,Measles,"CDK2,TP53,AKT1",KEGG,0.00022
+GO:0031324,Negative regulation of cellular metabolic process,"CDK2,TP53,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,0.00022
+HSA-8848021,Signaling by PTK6,"CDK2,EGFR,AKT1",RCTM,0.00022
+HSA-157118,Signaling by NOTCH,"TP53,EGFR,AKT1,MYC",RCTM,0.00022
+HP:0000078,Abnormality of the genital system,"MAPK1,TP53,MTOR,PTEN,BRCA1,AKT1,MYC",HPO,0.00022
+HP:0100012,Neoplasm of the eye,"TP53,PTEN,AKT1",HPO,0.00022
+GO:0010632,Regulation of epithelial cell migration,"MTOR,PTEN,AKT1,VEGFA",Process,0.00022
+GO:0051896,Regulation of protein kinase B signaling,"EGFR,MTOR,PTEN,AKT1",Process,0.00022
+GO:0060341,Regulation of cellular localization,"MAPK1,TP53,EGFR,PTEN,AKT1,VEGFA",Process,0.00022
+HSA-109606,Intrinsic Pathway for Apoptosis,"MAPK1,TP53,AKT1",RCTM,0.00022
+GOCC:0097613,Dinoflagellate epicone,"TP53,MYC",COMPARTMENTS,0.00023
+GO:0055021,Regulation of cardiac muscle tissue growth,"MAPK1,MTOR,PTEN",Process,0.00023
+HSA-69278,"Cell Cycle, Mitotic","MAPK1,CDK2,TP53,AKT1,MYC",RCTM,0.00023
+hsa04550,Signaling pathways regulating pluripotency of stem cells,"MAPK1,AKT1,MYC",KEGG,0.00023
+DOID:3114,Serous cystadenocarcinoma,"TP53,BRCA1",DISEASES,0.00024
+DOID:3012,Li-Fraumeni syndrome,"TP53,BRCA1",DISEASES,0.00024
+GO:0006112,Energy reserve metabolic process,"MTOR,AKT1,MYC",Process,0.00024
+GO:0045936,Negative regulation of phosphate metabolic process,"TP53,MTOR,PTEN,AKT1,MYC",Process,0.00025
+BTO:0000567,HeLa cell,"TP53,MYC",TISSUES,0.00025
+GO:0060135,Maternal process involved in female pregnancy,"MAPK1,MTOR,AKT1",Process,0.00025
+WP2813,Mammary gland development pathway - Embryonic development (Stage 1 of 4),"AKT1,MYC",WikiPathways,0.00025
+HP:0001892,Abnormal bleeding,"MAPK1,TP53,PTEN,AKT1,MYC",HPO,0.00025
+WP3853,ERK pathway in Huntingtons disease,"MAPK1,EGFR",WikiPathways,0.00025
+BTO:0000018,A-549 cell,"TP53,AKT1",TISSUES,0.00025
+BTO:0001615,Colorectal cancer cell,"TP53,AKT1",TISSUES,0.00025
+WP1545,miRNAs involved in DNA damage response,"TP53,MYC",WikiPathways,0.00025
+HP:0005374,Cellular immunodeficiency,"TP53,PTEN,AKT1",HPO,0.00026
+GO:0051049,Regulation of transport,"MAPK1,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA",Process,0.00026
+GO:0007610,Behavior,"MAPK1,TP53,EGFR,MTOR,PTEN",Process,0.00026
+GO:1901576,Organic substance biosynthetic process,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1",Process,0.00027
+GO:0043542,Endothelial cell migration,"PTEN,AKT1,VEGFA",Process,0.00027
+WP4217,Ebola virus pathway in host,"MAPK1,EGFR,AKT1",WikiPathways,0.00027
+WP3915,Angiopoietin-like protein 8 regulatory pathway,"MAPK1,MTOR,AKT1",WikiPathways,0.00027
+GO:0071356,Cellular response to tumor necrosis factor,"MAPK1,TP53,BRCA1,AKT1",Process,0.00027
+HSA-2262752,Cellular responses to stress,"MAPK1,CDK2,TP53,MTOR,VEGFA",RCTM,0.00028
+BTO:0000731,Acute lymphoblastic leukemia cell,"TP53,AKT1",TISSUES,0.00028
+HSA-8943724,Regulation of PTEN gene transcription,"MAPK1,TP53,MTOR",RCTM,0.00028
+hsa04934,Cushing syndrome,"MAPK1,CDK2,EGFR",KEGG,0.00029
+GO:2000573,Positive regulation of DNA biosynthetic process,"MAPK1,VEGFA,MYC",Process,0.0003
+GO:0060429,Epithelium development,"MAPK1,TP53,EGFR,AKT1,VEGFA,MYC",Process,0.0003
+GO:0038127,ERBB signaling pathway,"MAPK1,EGFR,AKT1",Process,0.0003
+HP:0045058,Abnormality of the testis size,"PTEN,BRCA1,AKT1",HPO,0.00031
+HP:0004472,Mandibular hyperostosis,"PTEN,AKT1",HPO,0.00031
+GO:0050730,Regulation of peptidyl-tyrosine phosphorylation,"TP53,EGFR,MTOR,VEGFA",Process,0.00031
+HP:0007403,Hypertrophy of skin of soles,"PTEN,AKT1",HPO,0.00031
+GO:0018107,Peptidyl-threonine phosphorylation,"MAPK1,MTOR,AKT1",Process,0.00032
+GO:0031400,Negative regulation of protein modification process,"MTOR,PTEN,BRCA1,AKT1,MYC",Process,0.00032
+GO:0007611,Learning or memory,"MAPK1,EGFR,MTOR,PTEN",Process,0.00032
+HP:0012740,Papilloma,"TP53,PTEN,AKT1",HPO,0.00033
+WP3888,VEGFA-VEGFR2 signaling pathway,"MAPK1,MTOR,AKT1,VEGFA",WikiPathways,0.00033
+GO:0061419,Positive regulation of transcription from RNA polymerase II promoter in response to hypoxia,"TP53,VEGFA",Process,0.00033
+GO:1903689,"Regulation of wound healing, spreading of epidermal cells","MTOR,PTEN",Process,0.00033
+WP3859,TGF-beta signaling in thyroid cells for epithelial-mesenchymal transition,"MAPK1,AKT1",WikiPathways,0.00033
+WP4300,Extracellular vesicles in the crosstalk of cardiac cells,"EGFR,PTEN",WikiPathways,0.00033
+GO:0070141,Response to UV-A,"EGFR,AKT1",Process,0.00033
+WP2380,Brain-derived neurotrophic factor (BDNF) signaling pathway,"MAPK1,MTOR,AKT1",WikiPathways,0.00034
+GO:0071229,Cellular response to acid chemical,"EGFR,MTOR,VEGFA",Process,0.00035
+GO:0072422,Signal transduction involved in DNA damage checkpoint,"CDK2,TP53,BRCA1",Process,0.00035
+WP1742,TP53 network,"TP53,MYC",WikiPathways,0.00035
+HP:0011017,Abnormal cellular physiology,"TP53,MTOR,PTEN,BRCA1,AKT1",HPO,0.00036
+HP:0002721,Immunodeficiency,"TP53,PTEN,AKT1,MYC",HPO,0.00036
+BTO:0000093,MCF-7 cell,"TP53,AKT1",TISSUES,0.00036
+GO:0048511,Rhythmic process,"TP53,EGFR,MTOR,PTEN",Process,0.00036
+GO:0030030,Cell projection organization,"MAPK1,EGFR,MTOR,PTEN,AKT1,VEGFA",Process,0.00038
+GO:0010638,Positive regulation of organelle organization,"MAPK1,TP53,MTOR,BRCA1,VEGFA",Process,0.00038
+WP4206,Hereditary leiomyomatosis and renal cell carcinoma pathway,"TP53,VEGFA",WikiPathways,0.00039
+WP4666,Hepatitis B infection,"MAPK1,AKT1,MYC",WikiPathways,0.00039
+HP:0004099,Macrodactyly,"PTEN,AKT1",HPO,0.00041
+GO:0016579,Protein deubiquitination,"TP53,PTEN,BRCA1,MYC",Process,0.00041
+HP:0002890,Thyroid carcinoma,"TP53,PTEN,AKT1",HPO,0.00041
+HP:0010516,Thymus hyperplasia,"PTEN,AKT1",HPO,0.00041
+HP:0100730,Bronchogenic cyst,"PTEN,AKT1",HPO,0.00041
+HP:0012871,Varicocele,"PTEN,AKT1",HPO,0.00041
+GO:0030330,"DNA damage response, signal transduction by p53 class mediator","CDK2,TP53,BRCA1",Process,0.00043
+HSA-109582,Hemostasis,"MAPK1,CDK2,TP53,AKT1,VEGFA",RCTM,0.00043
+DOID:2871,Endometrial carcinoma,"TP53,PTEN",DISEASES,0.00043
+HP:0100026,Arteriovenous malformation,"PTEN,BRCA1,AKT1",HPO,0.00044
+GO:0035239,Tube morphogenesis,"EGFR,PTEN,AKT1,VEGFA,MYC",Process,0.00044
+GO:0048145,Regulation of fibroblast proliferation,"TP53,EGFR,MYC",Process,0.00044
+WP4239,Epithelial to mesenchymal transition in colorectal cancer,"MAPK1,TP53,AKT1",WikiPathways,0.00045
+WP3872,Regulation of apoptosis by parathyroid hormone-related protein,"AKT1,MYC",WikiPathways,0.00045
+HP:0011121,Abnormality of skin morphology,"MAPK1,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1",HPO,0.00045
+WP1584,Type II diabetes mellitus,"MAPK1,MTOR",WikiPathways,0.00045
+GO:0071158,Positive regulation of cell cycle arrest,"CDK2,TP53,BRCA1",Process,0.00046
+WP712,Estrogen signaling pathway,"MAPK1,AKT1",WikiPathways,0.00047
+DOID:0050736,Autosomal dominant disease,"TP53,MTOR,PTEN,BRCA1,AKT1,VEGFA",DISEASES,0.00047
+HP:0001824,Weight loss,"TP53,PTEN,BRCA1,AKT1",HPO,0.00048
+HP:0011355,Localized skin lesion,"MAPK1,MTOR,PTEN,BRCA1,AKT1",HPO,0.00048
+hsa05203,Viral carcinogenesis,"MAPK1,CDK2,TP53",KEGG,0.00048
+HP:0100521,Neoplasm of the thymus,"PTEN,AKT1",HPO,0.00051
+HP:0001004,Lymphedema,"MAPK1,PTEN,AKT1",HPO,0.00051
+WP5074,Kallmann syndrome,"MAPK1,AKT1",WikiPathways,0.00051
+WP3982,miRNA regulation of p53 pathway in prostate cancer,"TP53,PTEN",WikiPathways,0.00051
+GO:0001892,Embryonic placenta development,"MAPK1,EGFR,AKT1",Process,0.00052
+GO:0048661,Positive regulation of smooth muscle cell proliferation,"EGFR,MTOR,AKT1",Process,0.00052
+GO:0045944,Positive regulation of transcription by RNA polymerase II,"TP53,EGFR,BRCA1,AKT1,VEGFA,MYC",Process,0.00053
+HP:0007565,Multiple cafe-au-lait spots,"PTEN,BRCA1,AKT1",HPO,0.00053
+HSA-5688426,Deubiquitination,"TP53,PTEN,BRCA1,MYC",RCTM,0.00053
+GO:0097306,Cellular response to alcohol,"PTEN,BRCA1,AKT1",Process,0.00053
+HP:0000271,Abnormality of the face,"MAPK1,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,MYC",HPO,0.00054
+WP26,S1P receptor signal transduction,"MAPK1,AKT1",WikiPathways,0.00054
+HSA-69202,Cyclin E associated events during G1/S transition,"CDK2,AKT1,MYC",RCTM,0.00054
+HSA-168256,Immune System,"MAPK1,TP53,MTOR,PTEN,AKT1,VEGFA,MYC",RCTM,0.00054
+HSA-69656,Cyclin A:Cdk2-associated events at S phase entry,"CDK2,AKT1,MYC",RCTM,0.00055
+HP:0004377,Hematological neoplasm,"TP53,PTEN,BRCA1,MYC",HPO,0.00056
+WP581,EPO receptor signaling,"MAPK1,AKT1",WikiPathways,0.00057
+WP3658,Wnt/beta-catenin signaling pathway in leukemia,"AKT1,MYC",WikiPathways,0.00057
+WP4223,Ras signaling,"MAPK1,EGFR,AKT1",WikiPathways,0.00058
+GO:0051336,Regulation of hydrolase activity,"TP53,EGFR,MTOR,AKT1,VEGFA,MYC",Process,0.0006
+GO:0009895,Negative regulation of catabolic process,"TP53,EGFR,MTOR,AKT1",Process,0.0006
+GO:0001938,Positive regulation of endothelial cell proliferation,"MTOR,AKT1,VEGFA",Process,0.00061
+GO:0031058,Positive regulation of histone modification,"TP53,BRCA1,VEGFA",Process,0.00062
+GO:0051129,Negative regulation of cellular component organization,"TP53,PTEN,BRCA1,AKT1,VEGFA",Process,0.00062
+GO:0034766,Negative regulation of ion transmembrane transport,"MTOR,PTEN,AKT1",Process,0.00063
+WP2643,Nanoparticle-mediated activation of receptor signaling,"MAPK1,EGFR",WikiPathways,0.00064
+GO:0010942,Positive regulation of cell death,"TP53,MTOR,PTEN,AKT1,MYC",Process,0.00064
+WP2583,T cell receptor and co-stimulatory signaling,"PTEN,AKT1",WikiPathways,0.00064
+DOID:3068,Glioblastoma multiforme,"TP53,EGFR",DISEASES,0.00064
+GO:0006796,Phosphate-containing compound metabolic process,"MAPK1,CDK2,EGFR,MTOR,PTEN,AKT1,MYC",Process,0.00065
+hsa05170,Human immunodeficiency virus 1 infection,"MAPK1,MTOR,AKT1",KEGG,0.00065
+GO:0000079,Regulation of cyclin-dependent protein serine/threonine kinase activity,"EGFR,PTEN,AKT1",Process,0.00065
+GO:0007049,Cell cycle,"MAPK1,CDK2,TP53,MTOR,BRCA1,MYC",Process,0.00066
+HP:0007483,Depigmentation/hyperpigmentation of skin,"PTEN,AKT1",HPO,0.00066
+GO:0010749,Regulation of nitric oxide mediated signal transduction,"EGFR,VEGFA",Process,0.00066
+hsa05132,Salmonella infection,"MAPK1,AKT1,MYC",KEGG,0.00069
+HSA-6804756,Regulation of TP53 Activity through Phosphorylation,"CDK2,TP53,BRCA1",RCTM,0.0007
+GO:0019217,Regulation of fatty acid metabolic process,"MTOR,BRCA1,AKT1",Process,0.00071
+GO:0048513,Animal organ development,"MAPK1,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA,MYC",Process,0.00071
+GO:0030162,Regulation of proteolysis,"TP53,PTEN,AKT1,VEGFA,MYC",Process,0.00074
+DOID:6457,Cowden syndrome,"PTEN,AKT1",DISEASES,0.00076
+GO:0043276,Anoikis,"MTOR,AKT1",Process,0.00076
+GO:0006357,Regulation of transcription by RNA polymerase II,"CDK2,TP53,EGFR,BRCA1,AKT1,VEGFA,MYC",Process,0.00076
+DOID:4007,Bladder carcinoma,"TP53,MYC",DISEASES,0.00076
+GO:0062014,Negative regulation of small molecule metabolic process,"TP53,BRCA1,AKT1",Process,0.00076
+GO:1903800,Positive regulation of production of miRNAs involved in gene silencing by miRNA,"TP53,EGFR",Process,0.00076
+DOID:7,Disease of anatomical entity,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",DISEASES,0.00076
+DOID:0060108,Brain glioma,"TP53,EGFR",DISEASES,0.00076
+DOID:4905,Pancreatic carcinoma,"TP53,MYC",DISEASES,0.00076
+GO:0097011,Cellular response to granulocyte macrophage colony-stimulating factor stimulus,"MAPK1,AKT1",Process,0.00076
+HP:0011124,Abnormal epidermal morphology,"EGFR,PTEN,AKT1",HPO,0.00076
+WP2817,Mammary gland development pathway - Pregnancy and lactation (Stage 3 of 4),"EGFR,MYC",WikiPathways,0.00076
+GO:0071902,Positive regulation of protein serine/threonine kinase activity,"MAPK1,EGFR,AKT1,VEGFA",Process,0.0008
+GO:2001022,Positive regulation of response to DNA damage stimulus,"EGFR,BRCA1,MYC",Process,0.0008
+HSA-4420097,VEGFA-VEGFR2 Pathway,"MTOR,AKT1,VEGFA",RCTM,0.0008
+GO:2000134,Negative regulation of G1/S transition of mitotic cell cycle,"CDK2,TP53,PTEN",Process,0.00081
+WP2112,IL-17 signaling pathway,"MAPK1,AKT1",WikiPathways,0.00081
+GO:0051345,Positive regulation of hydrolase activity,"EGFR,MTOR,AKT1,VEGFA,MYC",Process,0.00083
+GO:0034641,Cellular nitrogen compound metabolic process,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1",Process,0.00083
+HP:0007818,Central heterochromia,"PTEN,AKT1",HPO,0.00085
+GO:0035051,Cardiocyte differentiation,"MAPK1,MTOR,VEGFA",Process,0.00085
+WP4481,Resistin as a regulator of inflammation,"MAPK1,AKT1",WikiPathways,0.00085
+WP4874,CAMKK2 pathway,"MAPK1,MTOR",WikiPathways,0.00085
+HP:0001140,Limbal dermoid,"PTEN,AKT1",HPO,0.00085
+HP:0001031,Subcutaneous lipoma,"PTEN,AKT1",HPO,0.00085
+GO:0042802,Identical protein binding,"MAPK1,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA",Function,0.00086
+GO:0019901,Protein kinase binding,"MAPK1,TP53,EGFR,MTOR,PTEN,AKT1",Function,0.00086
+GO:0006275,Regulation of DNA replication,"CDK2,TP53,EGFR",Process,0.00088
+WP313,Hepatocyte growth factor receptor signaling,"MAPK1,PTEN",WikiPathways,0.00088
+HP:0011028,Abnormality of blood circulation,"TP53,PTEN,AKT1,MYC",HPO,0.00089
+GO:0033138,Positive regulation of peptidyl-serine phosphorylation,"EGFR,AKT1,VEGFA",Process,0.0009
+GO:0021782,Glial cell development,"EGFR,PTEN,AKT1",Process,0.0009
+GO:0060322,Head development,"MAPK1,TP53,EGFR,MTOR,PTEN",Process,0.0009
+HP:0100835,Benign neoplasm of the central nervous system,"TP53,PTEN,AKT1",HPO,0.00092
+HP:0002230,Generalized hirsutism,"MAPK1,PTEN,AKT1",HPO,0.00092
+GO:0051253,Negative regulation of RNA metabolic process,"CDK2,TP53,MTOR,BRCA1,VEGFA,MYC",Process,0.00094
+HP:0001555,Asymmetry of the thorax,"PTEN,AKT1",HPO,0.00095
+HP:0007899,Retinal nonattachment,"PTEN,AKT1",HPO,0.00095
+HP:0004418,Thrombophlebitis,"PTEN,AKT1",HPO,0.00095
+GO:0010038,Response to metal ion,"MAPK1,EGFR,PTEN,AKT1",Process,0.00095
+GO:0010666,Positive regulation of cardiac muscle cell apoptotic process,"TP53,PTEN",Process,0.00095
+GO:1903960,Negative regulation of anion transmembrane transport,"MTOR,AKT1",Process,0.00095
+WP1471,Target of rapamycin (TOR) signaling,"MTOR,AKT1",WikiPathways,0.00097
+HP:0010622,Neoplasm of the skeletal system,"TP53,PTEN,AKT1",HPO,0.00098
+HP:0000316,Hypertelorism,"MAPK1,MTOR,PTEN,BRCA1,AKT1",HPO,0.00098
+HSA-6811558,"PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling","MAPK1,EGFR,AKT1",RCTM,0.00099
+GO:0048609,Multicellular organismal reproductive process,"MAPK1,EGFR,MTOR,PTEN,AKT1",Process,0.00099
+WP3614,Photodynamic therapy-induced HIF-1 survival signaling,"TP53,VEGFA",WikiPathways,0.001
+WP4331,Neovascularisation processes,"MAPK1,AKT1",WikiPathways,0.001
+GO:0010906,Regulation of glucose metabolic process,"TP53,MTOR,AKT1",Process,0.001
+DOID:0060073,Lymphatic system cancer,"TP53,AKT1,MYC",DISEASES,0.001
+GO:0065009,Regulation of molecular function,"MAPK1,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,0.0011
+HSA-8866910,TFAP2 (AP-2) family regulates transcription of growth factors and their receptors,"EGFR,VEGFA",RCTM,0.0011
+GO:0004674,Protein serine/threonine kinase activity,"MAPK1,CDK2,EGFR,MTOR,AKT1",Function,0.0011
+GO:0007166,Cell surface receptor signaling pathway,"MAPK1,TP53,EGFR,PTEN,AKT1,VEGFA,MYC",Process,0.0011
+WP4871,Kisspeptin/kisspeptin receptor system in the ovary,"MAPK1,AKT1",WikiPathways,0.0011
+HP:0007552,Abnormal subcutaneous fat tissue distribution,"PTEN,AKT1",HPO,0.0011
+HP:0010816,Epidermal nevus,"PTEN,AKT1",HPO,0.0011
+HP:0000153,Abnormality of the mouth,"MAPK1,EGFR,MTOR,PTEN,BRCA1,AKT1,MYC",HPO,0.0011
+GO:0014066,Regulation of phosphatidylinositol 3-kinase signaling,"MAPK1,EGFR,PTEN",Process,0.0011
+GO:0009605,Response to external stimulus,"MAPK1,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA",Process,0.0011
+GO:0050767,Regulation of neurogenesis,"TP53,MTOR,PTEN,AKT1,VEGFA",Process,0.0011
+GO:0051547,Regulation of keratinocyte migration,"MTOR,PTEN",Process,0.0011
+HP:0001102,Angioid streaks of the fundus,"PTEN,AKT1",HPO,0.0011
+GO:0008015,Blood circulation,"EGFR,MTOR,AKT1,VEGFA",Process,0.0012
+GO:0030879,Mammary gland development,"MAPK1,AKT1,VEGFA",Process,0.0012
+GO:0006978,"DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator","TP53,BRCA1",Process,0.0012
+WP364,IL-6 signaling pathway,"MAPK1,AKT1",WikiPathways,0.0013
+hsa04930,Type II diabetes mellitus,"MAPK1,MTOR",KEGG,0.0013
+GO:1905477,Positive regulation of protein localization to membrane,"TP53,EGFR,AKT1",Process,0.0013
+GO:2001233,Regulation of apoptotic signaling pathway,"TP53,PTEN,BRCA1,AKT1",Process,0.0013
+WP2036,TNF-related weak inducer of apoptosis (TWEAK) signaling pathway,"MAPK1,AKT1",WikiPathways,0.0013
+HP:0002665,Lymphoma,"TP53,PTEN,MYC",HPO,0.0013
+GO:0018193,Peptidyl-amino acid modification,"MAPK1,CDK2,EGFR,MTOR,AKT1",Process,0.0013
+GO:0044271,Cellular nitrogen compound biosynthetic process,"MAPK1,TP53,EGFR,MTOR,PTEN,AKT1",Process,0.0013
+GO:0043217,Myelin maintenance,"PTEN,AKT1",Process,0.0013
+GO:0033993,Response to lipid,"MAPK1,EGFR,PTEN,BRCA1,AKT1",Process,0.0013
+HP:0010497,Sirenomelia,"PTEN,AKT1",HPO,0.0013
+GO:0007275,Multicellular organism development,"MAPK1,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Process,0.0013
+BTO:0004086,Mammary gland tumor cell line,"EGFR,BRCA1",TISSUES,0.0013
+GO:0006206,Pyrimidine nucleobase metabolic process,"MAPK1,MTOR",Process,0.0013
+GO:0001933,Negative regulation of protein phosphorylation,"MTOR,PTEN,AKT1,MYC",Process,0.0013
+GO:0019902,Phosphatase binding,"MAPK1,TP53,EGFR,AKT1",Function,0.0013
+HP:0004490,Calvarial hyperostosis,"PTEN,AKT1",HPO,0.0013
+HP:0009726,Renal neoplasm,"TP53,PTEN,AKT1",HPO,0.0014
+HP:0010619,Fibroadenoma of the breast,"PTEN,AKT1",HPO,0.0014
+HP:0000040,Long penis,"PTEN,AKT1",HPO,0.0014
+WP1591,Heart development,"MAPK1,VEGFA",WikiPathways,0.0014
+WP2038,Microtubule cytoskeleton regulation,"PTEN,AKT1",WikiPathways,0.0014
+HSA-6804759,Regulation of TP53 Activity through Association with Co-factors,"TP53,AKT1",RCTM,0.0014
+HSA-6804116,TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest,"CDK2,TP53",RCTM,0.0014
+WP2332,Interleukin-11 signaling pathway,"MAPK1,AKT1",WikiPathways,0.0014
+WP2059,Alzheimers disease and miRNA effects,"MAPK1,MTOR,AKT1",WikiPathways,0.0014
+WP5124,Alzheimers disease,"MAPK1,MTOR,AKT1",WikiPathways,0.0014
+DOID:3093,Nervous system cancer,"CDK2,TP53,EGFR",DISEASES,0.0014
+HP:0000194,Open mouth,"MTOR,PTEN,AKT1",HPO,0.0014
+GO:0048646,Anatomical structure formation involved in morphogenesis,"MAPK1,TP53,PTEN,AKT1,VEGFA",Process,0.0014
+HP:0100764,Lymphangioma,"PTEN,AKT1",HPO,0.0014
+HP:0002719,Recurrent infections,"MAPK1,EGFR,PTEN,BRCA1,AKT1",HPO,0.0014
+GO:0060968,Regulation of gene silencing,"CDK2,TP53,EGFR",Process,0.0014
+HP:0100560,Upper limb asymmetry,"PTEN,AKT1",HPO,0.0014
+WP2637,Interleukin-1 (IL-1) structural pathway,"MAPK1,MYC",WikiPathways,0.0015
+DOID:8719,In situ carcinoma,"EGFR,BRCA1",DISEASES,0.0015
+HP:0012733,Macule,"MAPK1,PTEN,AKT1",HPO,0.0015
+GO:0031065,Positive regulation of histone deacetylation,"TP53,VEGFA",Process,0.0015
+HP:0030448,Soft tissue sarcoma,"TP53,PTEN,AKT1",HPO,0.0015
+GO:0007050,Cell cycle arrest,"TP53,MTOR,MYC",Process,0.0015
+DOID:0060095,Uterine benign neoplasm,"TP53,PTEN",DISEASES,0.0015
+WP286,IL-3 signaling pathway,"MAPK1,AKT1",WikiPathways,0.0016
+DOID:768,Retinoblastoma,"CDK2,TP53",DISEASES,0.0016
+BTO:0001913,Colonic adenocarcinoma cell line,"TP53,MYC",TISSUES,0.0016
+WP3611,Photodynamic therapy-induced AP-1 survival signaling.,"TP53,EGFR",WikiPathways,0.0016
+HP:0012721,Venous malformation,"PTEN,AKT1",HPO,0.0016
+HP:0100780,Conjunctival hamartoma,"PTEN,AKT1",HPO,0.0016
+HP:0002253,Colonic diverticula,"PTEN,AKT1",HPO,0.0016
+GO:0051090,Regulation of DNA-binding transcription factor activity,"MAPK1,PTEN,AKT1,VEGFA",Process,0.0016
+GO:0034645,Cellular macromolecule biosynthetic process,"CDK2,TP53,EGFR,PTEN,BRCA1,AKT1",Process,0.0016
+HP:0000238,Hydrocephalus,"TP53,PTEN,BRCA1,AKT1",HPO,0.0016
+GO:0007623,Circadian rhythm,"TP53,EGFR,PTEN",Process,0.0016
+HP:0001939,Abnormality of metabolism/homeostasis,"MAPK1,TP53,MTOR,PTEN,BRCA1,AKT1,MYC",HPO,0.0016
+GOCC:0033596,TSC1-TSC2 complex,"MTOR,AKT1",COMPARTMENTS,0.0016
+GOCC:0043626,PCNA complex,"CDK2,TP53",COMPARTMENTS,0.0016
+GOCC:0061695,"Transferase complex, transferring phosphorus-containing groups","CDK2,MTOR,PTEN,AKT1",COMPARTMENTS,0.0016
+GO:0050804,Modulation of chemical synaptic transmission,"MAPK1,EGFR,MTOR,PTEN",Process,0.0017
+GO:0042060,Wound healing,"MAPK1,EGFR,MTOR,VEGFA",Process,0.0017
+GO:0010212,Response to ionizing radiation,"TP53,BRCA1,MYC",Process,0.0017
+GO:0010634,Positive regulation of epithelial cell migration,"MTOR,AKT1,VEGFA",Process,0.0017
+GO:0051050,Positive regulation of transport,"MAPK1,TP53,EGFR,AKT1,VEGFA",Process,0.0017
+GO:0050806,Positive regulation of synaptic transmission,"MAPK1,EGFR,PTEN",Process,0.0017
+HP:0003715,Myofibrillar myopathy,"PTEN,AKT1",HPO,0.0018
+HP:0002753,Thin bony cortex,"PTEN,AKT1",HPO,0.0018
+HP:0011458,Abdominal symptom,"TP53,EGFR,MTOR,PTEN,AKT1,MYC",HPO,0.0018
+HP:0007206,Hemimegalencephaly,"MTOR,PTEN",HPO,0.0018
+HP:0002017,Nausea and vomiting,"TP53,PTEN,AKT1,MYC",HPO,0.0018
+HP:0001528,Hemihypertrophy,"PTEN,AKT1",HPO,0.0018
+HP:0004420,Arterial thrombosis,"PTEN,AKT1",HPO,0.0018
+DOID:4001,Ovarian carcinoma,"TP53,BRCA1",DISEASES,0.0018
+DOID:74,Hematopoietic system disease,"TP53,BRCA1,VEGFA,MYC",DISEASES,0.0018
+WP2864,Apoptosis-related network due to altered Notch3 in ovarian cancer,"MAPK1,AKT1",WikiPathways,0.0018
+GO:0034248,Regulation of cellular amide metabolic process,"MAPK1,TP53,MTOR,AKT1",Process,0.0018
+GO:0048468,Cell development,"MAPK1,EGFR,MTOR,PTEN,AKT1,VEGFA",Process,0.0018
+HP:0006731,Follicular thyroid carcinoma,"PTEN,AKT1",HPO,0.0018
+HP:0030078,Lung adenocarcinoma,"TP53,EGFR",HPO,0.0018
+HP:0030669,Abnormal ocular adnexa morphology,"MAPK1,EGFR,PTEN,BRCA1,AKT1",HPO,0.0018
+EFO:0000519,Glioblastoma multiforme,"TP53,EGFR",HPO,0.0018
+GO:0062012,Regulation of small molecule metabolic process,"TP53,MTOR,BRCA1,AKT1",Process,0.0018
+GO:0031998,Regulation of fatty acid beta-oxidation,"MTOR,AKT1",Process,0.0018
+HP:0000324,Facial asymmetry,"PTEN,BRCA1,AKT1",HPO,0.0018
+HP:0000854,Thyroid adenoma,"PTEN,AKT1",HPO,0.0018
+WP395,IL-4 signaling pathway,"MAPK1,AKT1",WikiPathways,0.0019
+WP3959,DNA IR-double strand breaks and cellular response via ATM,"TP53,BRCA1",WikiPathways,0.0019
+HP:0000366,Abnormality of the nose,"MAPK1,TP53,MTOR,PTEN,BRCA1,AKT1",HPO,0.0019
+HP:0031105,Abnormal uterus morphology,"PTEN,BRCA1,AKT1",HPO,0.0019
+WP195,IL-1 signaling pathway,"MAPK1,AKT1",WikiPathways,0.0019
+HP:0100641,Neoplasm of the adrenal cortex,"TP53,PTEN",HPO,0.0019
+GO:0060716,Labyrinthine layer blood vessel development,"MAPK1,AKT1",Process,0.0019
+GO:0009267,Cellular response to starvation,"MAPK1,TP53,MTOR",Process,0.0019
+GO:0002360,T cell lineage commitment,"TP53,MTOR",Process,0.0019
+GO:0002042,Cell migration involved in sprouting angiogenesis,"AKT1,VEGFA",Process,0.0019
+HP:0011386,Narrow internal auditory canal,"PTEN,AKT1",HPO,0.0019
+GO:0007093,Mitotic cell cycle checkpoint,"CDK2,TP53,BRCA1",Process,0.0019
+HP:0000969,Edema,"MAPK1,TP53,PTEN,AKT1",HPO,0.0019
+HSA-881907,Gastrin-CREB signalling pathway via PKC and MAPK,"MAPK1,EGFR",RCTM,0.002
+HP:0030680,Abnormality of cardiovascular system morphology,"MAPK1,TP53,EGFR,PTEN,BRCA1,AKT1",HPO,0.002
+GO:0044087,Regulation of cellular component biogenesis,"TP53,MTOR,PTEN,BRCA1,VEGFA",Process,0.002
+GO:0022402,Cell cycle process,"CDK2,TP53,MTOR,BRCA1,MYC",Process,0.002
+HP:0005595,Generalized hyperkeratosis,"PTEN,AKT1",HPO,0.0021
+GO:1901652,Response to peptide,"TP53,MTOR,PTEN,AKT1",Process,0.0021
+GO:0043467,Regulation of generation of precursor metabolites and energy,"TP53,MTOR,AKT1",Process,0.0021
+GO:0048738,Cardiac muscle tissue development,"MTOR,PTEN,VEGFA",Process,0.0021
+GO:2001236,Regulation of extrinsic apoptotic signaling pathway,"PTEN,BRCA1,AKT1",Process,0.0021
+WP4205,MET in type 1 papillary renal cell carcinoma,"MAPK1,AKT1",WikiPathways,0.0021
+hsa04213,Longevity regulating pathway - multiple species,"MTOR,AKT1",KEGG,0.0021
+HP:0001028,Hemangioma,"MTOR,PTEN,AKT1",HPO,0.0021
+HP:0002814,Abnormality of the lower limb,"MAPK1,TP53,MTOR,PTEN,BRCA1,AKT1",HPO,0.0022
+HP:0011138,Abnormality of skin adnexa morphology,"MAPK1,EGFR,MTOR,PTEN,BRCA1",HPO,0.0022
+hsa04929,GnRH secretion,"MAPK1,AKT1",KEGG,0.0022
+WP304,Kit receptor signaling pathway,"MAPK1,AKT1",WikiPathways,0.0022
+EFO:0000408,Disease,"MAPK1,TP53,EGFR,PTEN,BRCA1,AKT1",HPO,0.0022
+HP:0004481,Progressive macrocephaly,"PTEN,AKT1",HPO,0.0022
+GO:0006359,Regulation of transcription by RNA polymerase III,"MTOR,BRCA1",Process,0.0022
+HSA-5693532,DNA Double-Strand Break Repair,"CDK2,TP53,BRCA1",RCTM,0.0023
+WP4808,Endochondral ossification with skeletal dysplasias,"AKT1,VEGFA",WikiPathways,0.0023
+WP474,Endochondral ossification,"AKT1,VEGFA",WikiPathways,0.0023
+WP4906,3q29 copy number variation syndrome,"AKT1,MYC",WikiPathways,0.0023
+WP61,Notch signaling pathway (Netpath),"AKT1,MYC",WikiPathways,0.0023
+GOCC:0005634,Nucleus,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,MYC",COMPARTMENTS,0.0023
+GO:0032101,Regulation of response to external stimulus,"MAPK1,EGFR,MTOR,PTEN,VEGFA",Process,0.0023
+HSA-69481,G2/M Checkpoints,"CDK2,TP53,BRCA1",RCTM,0.0023
+GO:0043409,Negative regulation of MAPK cascade,"PTEN,AKT1,MYC",Process,0.0023
+HP:0004390,Hamartomatous polyposis,"PTEN,AKT1",HPO,0.0024
+GO:0001568,Blood vessel development,"MAPK1,PTEN,AKT1,VEGFA",Process,0.0024
+GO:0048812,Neuron projection morphogenesis,"MAPK1,EGFR,PTEN,VEGFA",Process,0.0024
+GO:0030324,Lung development,"MAPK1,EGFR,VEGFA",Process,0.0024
+GO:0070647,Protein modification by small protein conjugation or removal,"TP53,PTEN,BRCA1,AKT1,MYC",Process,0.0024
+hsa04664,Fc epsilon RI signaling pathway,"MAPK1,AKT1",KEGG,0.0024
+HP:0005293,Venous insufficiency,"TP53,PTEN",HPO,0.0024
+HP:0008675,Enlarged polycystic ovaries,"PTEN,AKT1",HPO,0.0024
+HP:0100777,Exostoses,"PTEN,AKT1",HPO,0.0024
+HP:0000053,Macroorchidism,"PTEN,AKT1",HPO,0.0024
+HP:0001263,Global developmental delay,"MAPK1,TP53,MTOR,PTEN,BRCA1,AKT1",HPO,0.0024
+HSA-445144,Signal transduction by L1,"MAPK1,EGFR",RCTM,0.0025
+HP:0000494,Downslanted palpebral fissures,"MAPK1,MTOR,PTEN,AKT1",HPO,0.0025
+HP:0009594,Retinal hamartoma,"PTEN,AKT1",HPO,0.0025
+hsa04520,Adherens junction,"MAPK1,EGFR",KEGG,0.0025
+GO:0009894,Regulation of catabolic process,"TP53,EGFR,MTOR,PTEN,AKT1",Process,0.0025
+GO:0044030,Regulation of DNA methylation,"BRCA1,MYC",Process,0.0025
+GO:0002053,Positive regulation of mesenchymal cell proliferation,"VEGFA,MYC",Process,0.0025
+GO:0048512,Circadian behavior,"TP53,PTEN",Process,0.0025
+GO:1902532,Negative regulation of intracellular signal transduction,"MTOR,PTEN,AKT1,MYC",Process,0.0025
+HP:0012372,Abnormal eye morphology,"MAPK1,TP53,PTEN,BRCA1,AKT1",HPO,0.0026
+hsa04920,Adipocytokine signaling pathway,"MTOR,AKT1",KEGG,0.0026
+GO:0010975,Regulation of neuron projection development,"MTOR,PTEN,AKT1,VEGFA",Process,0.0026
+HSA-389357,CD28 dependent PI3K/Akt signaling,"MTOR,AKT1",RCTM,0.0026
+HP:0011844,Abnormal appendicular skeleton morphology,"TP53,MTOR,PTEN,BRCA1,AKT1",HPO,0.0026
+hsa04917,Prolactin signaling pathway,"MAPK1,AKT1",KEGG,0.0026
+HP:0011276,Vascular skin abnormality,"MAPK1,EGFR,PTEN,AKT1",HPO,0.0026
+GO:1905330,Regulation of morphogenesis of an epithelium,"MTOR,PTEN,VEGFA",Process,0.0027
+HP:0030084,Clinodactyly,"MAPK1,PTEN,BRCA1,AKT1",HPO,0.0027
+DOID:0060090,Central nervous system benign neoplasm,"MTOR,PTEN",DISEASES,0.0027
+HP:0000557,Buphthalmos,"PTEN,AKT1",HPO,0.0027
+HP:0002624,Abnormal venous morphology,"TP53,PTEN,AKT1",HPO,0.0027
+WP1982,Sterol regulatory element-binding proteins (SREBP) signaling,"MTOR,AKT1",WikiPathways,0.0028
+HSA-2559583,Cellular Senescence,"MAPK1,CDK2,TP53",RCTM,0.0028
+GO:0051179,Localization,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA,MYC",Process,0.0028
+GO:0003018,Vascular process in circulatory system,"EGFR,AKT1,VEGFA",Process,0.0029
+GO:0065008,Regulation of biological quality,"MAPK1,TP53,EGFR,MTOR,PTEN,AKT1,VEGFA,MYC",Process,0.0029
+HP:0012032,Lipoma,"PTEN,AKT1",HPO,0.0029
+HP:0002625,Deep venous thrombosis,"PTEN,AKT1",HPO,0.0029
+HP:0009720,Adenoma sebaceum,"PTEN,AKT1",HPO,0.0029
+HP:0011029,Internal hemorrhage,"TP53,PTEN,AKT1",HPO,0.0029
+HP:0100761,Visceral angiomatosis,"PTEN,AKT1",HPO,0.0029
+HP:0002086,Abnormality of the respiratory system,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1",HPO,0.0029
+DOID:4450,Renal cell carcinoma,"MTOR,VEGFA",DISEASES,0.0029
+hsa05010,Alzheimer disease,"MAPK1,MTOR,AKT1",KEGG,0.0029
+GO:0071396,Cellular response to lipid,"MAPK1,EGFR,BRCA1,AKT1",Process,0.0029
+HP:0000079,Abnormality of the urinary system,"MAPK1,TP53,MTOR,PTEN,BRCA1,AKT1",HPO,0.003
+GO:0071407,Cellular response to organic cyclic compound,"MAPK1,EGFR,BRCA1,AKT1",Process,0.003
+GO:0070371,ERK1 and ERK2 cascade,"MAPK1,MYC",Process,0.0031
+GO:0031929,TOR signaling,"MTOR,AKT1",Process,0.0031
+hsa04662,B cell receptor signaling pathway,"MAPK1,AKT1",KEGG,0.0031
+DOID:326,Ischemia,"AKT1,VEGFA",DISEASES,0.0031
+WP4949,16p11.2 proximal deletion syndrome,"TP53,PTEN",WikiPathways,0.0031
+HP:0010508,Metatarsus valgus,"PTEN,AKT1",HPO,0.0031
+GO:0046777,Protein autophosphorylation,"EGFR,MTOR,AKT1",Process,0.0031
+GO:0043410,Positive regulation of MAPK cascade,"MAPK1,EGFR,PTEN,VEGFA",Process,0.0031
+GO:0048147,Negative regulation of fibroblast proliferation,"TP53,MYC",Process,0.0031
+GO:0022603,Regulation of anatomical structure morphogenesis,"MTOR,PTEN,BRCA1,VEGFA,MYC",Process,0.0031
+GOCC:0031931,TORC1 complex,"MTOR,AKT1",COMPARTMENTS,0.0032
+HP:0000268,Dolichocephaly,"PTEN,BRCA1,AKT1",HPO,0.0032
+GO:0045737,Positive regulation of cyclin-dependent protein serine/threonine kinase activity,"EGFR,AKT1",Process,0.0032
+HP:0012649,Increased inflammatory response,"MAPK1,TP53,EGFR,PTEN,AKT1",HPO,0.0033
+HP:0001999,Abnormal facial shape,"MAPK1,MTOR,PTEN,BRCA1,AKT1",HPO,0.0033
+HP:0001167,Abnormality of finger,"MAPK1,MTOR,PTEN,BRCA1,AKT1",HPO,0.0033
+HP:0003416,Spinal canal stenosis,"PTEN,AKT1",HPO,0.0033
+GO:0050731,Positive regulation of peptidyl-tyrosine phosphorylation,"TP53,MTOR,VEGFA",Process,0.0033
+GO:0046890,Regulation of lipid biosynthetic process,"MTOR,BRCA1,AKT1",Process,0.0033
+GO:0003690,Double-stranded DNA binding,"MAPK1,TP53,EGFR,MTOR,BRCA1,MYC",Function,0.0034
+GO:0120036,Plasma membrane bounded cell projection organization,"MAPK1,EGFR,MTOR,PTEN,VEGFA",Process,0.0034
+HSA-5674400,Constitutive Signaling by AKT1 E17K in Cancer,"MTOR,AKT1",RCTM,0.0034
+GO:0051146,Striated muscle cell differentiation,"MTOR,AKT1,VEGFA",Process,0.0034
+GO:0048878,Chemical homeostasis,"MAPK1,EGFR,AKT1,VEGFA,MYC",Process,0.0034
+GO:0005979,Regulation of glycogen biosynthetic process,"MTOR,AKT1",Process,0.0034
+GOCC:0031932,TORC2 complex,"MTOR,AKT1",COMPARTMENTS,0.0035
+HP:0000836,Hyperthyroidism,"PTEN,AKT1",HPO,0.0035
+HP:0002176,Spinal cord compression,"PTEN,AKT1",HPO,0.0035
+HP:0002204,Pulmonary embolism,"PTEN,AKT1",HPO,0.0035
+GO:0032148,Activation of protein kinase B activity,"MTOR,AKT1",Process,0.0035
+GOCC:0005856,Cytoskeleton,"MAPK1,CDK2,TP53,BRCA1,AKT1,MYC",COMPARTMENTS,0.0035
+GOCC:1990234,Transferase complex,"CDK2,MTOR,PTEN,BRCA1,AKT1",COMPARTMENTS,0.0035
+GOCC:0097144,BAX complex,"TP53,AKT1",COMPARTMENTS,0.0035
+GO:1902692,Regulation of neuroblast proliferation,"TP53,VEGFA",Process,0.0035
+GO:0045907,Positive regulation of vasoconstriction,"EGFR,AKT1",Process,0.0035
+HSA-1538133,G0 and Early G1,"CDK2,MYC",RCTM,0.0035
+HSA-5218920,VEGFR2 mediated vascular permeability,"MTOR,AKT1",RCTM,0.0035
+HP:0000034,Hydrocele testis,"PTEN,AKT1",HPO,0.0035
+GO:0032870,Cellular response to hormone stimulus,"EGFR,PTEN,BRCA1,AKT1",Process,0.0036
+HP:0012114,Endometrial carcinoma,"PTEN,AKT1",HPO,0.0037
+HP:0000834,Abnormality of the adrenal glands,"TP53,PTEN,AKT1",HPO,0.0037
+HP:0004313,Decreased circulating antibody level,"TP53,MTOR,PTEN",HPO,0.0037
+HP:0100547,Abnormality of forebrain morphology,"MAPK1,MTOR,PTEN,AKT1",HPO,0.0037
+GO:0070374,Positive regulation of ERK1 and ERK2 cascade,"EGFR,PTEN,VEGFA",Process,0.0038
+GO:0002685,Regulation of leukocyte migration,"MAPK1,AKT1,VEGFA",Process,0.0038
+GO:0003008,System process,"MAPK1,EGFR,MTOR,PTEN,AKT1,VEGFA",Process,0.0038
+HSA-1266738,Developmental Biology,"MAPK1,CDK2,EGFR,AKT1,MYC",RCTM,0.0038
+HP:0000036,Abnormal penis morphology,"MTOR,PTEN,BRCA1,AKT1",HPO,0.0038
+HP:0012650,Perisylvian polymicrogyria,"MTOR,PTEN",HPO,0.0038
+HP:0002143,Abnormality of the spinal cord,"PTEN,BRCA1,AKT1",HPO,0.0038
+hsa04540,Gap junction,"MAPK1,EGFR",KEGG,0.0038
+HP:0000356,Abnormality of the outer ear,"MAPK1,EGFR,PTEN,BRCA1,AKT1",HPO,0.0038
+HSA-8863795,Downregulation of ERBB2 signaling,"EGFR,AKT1",RCTM,0.0038
+HSA-114452,Activation of BH3-only proteins,"TP53,AKT1",RCTM,0.0038
+HP:0030163,Abnormal vascular physiology,"TP53,PTEN,AKT1",HPO,0.0039
+hsa04912,GnRH signaling pathway,"MAPK1,EGFR",KEGG,0.0039
+GO:0055023,Positive regulation of cardiac muscle tissue growth,"MAPK1,MTOR",Process,0.0039
+GO:0031663,Lipopolysaccharide-mediated signaling pathway,"MAPK1,AKT1",Process,0.0039
+HSA-6804758,Regulation of TP53 Activity through Acetylation,"TP53,AKT1",RCTM,0.0039
+EFO:0000311,Cancer,"TP53,EGFR,AKT1",HPO,0.0039
+HP:0001881,Abnormal leukocyte morphology,"TP53,PTEN,BRCA1,MYC",HPO,0.0039
+HP:0006101,Finger syndactyly,"PTEN,BRCA1,AKT1",HPO,0.0039
+HP:0012062,Bone cyst,"PTEN,AKT1",HPO,0.0039
+HP:0001048,Cavernous hemangioma,"PTEN,AKT1",HPO,0.0039
+DOID:225,Syndrome,"TP53,MTOR,PTEN,BRCA1,AKT1",DISEASES,0.004
+GO:0044057,Regulation of system process,"EGFR,MTOR,PTEN,AKT1",Process,0.004
+hsa04350,TGF-beta signaling pathway,"MAPK1,MYC",KEGG,0.004
+GO:1902749,Regulation of cell cycle G2/M phase transition,"CDK2,TP53,BRCA1",Process,0.004
+GO:1905332,Positive regulation of morphogenesis of an epithelium,"MTOR,VEGFA",Process,0.004
+hsa04666,Fc gamma R-mediated phagocytosis,"MAPK1,AKT1",KEGG,0.004
+GO:0043281,Regulation of cysteine-type endopeptidase activity involved in apoptotic process,"AKT1,VEGFA,MYC",Process,0.0041
+GOCC:0015630,Microtubule cytoskeleton,"MAPK1,CDK2,TP53,BRCA1,AKT1",COMPARTMENTS,0.0041
+HP:0002012,Abnormality of the abdominal organs,"TP53,PTEN,BRCA1,AKT1,MYC",HPO,0.0041
+GOCC:1902911,Protein kinase complex,"CDK2,MTOR,AKT1",COMPARTMENTS,0.0041
+GOCC:1902494,Catalytic complex,"CDK2,TP53,MTOR,PTEN,BRCA1,AKT1",COMPARTMENTS,0.0041
+GOCC:0032991,Protein-containing complex,"CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",COMPARTMENTS,0.0041
+GO:0008134,Transcription factor binding,"MAPK1,TP53,MTOR,BRCA1,MYC",Function,0.0042
+GO:0048008,Platelet-derived growth factor receptor signaling pathway,"PTEN,VEGFA",Process,0.0042
+HP:0000077,Abnormality of the kidney,"MAPK1,TP53,PTEN,BRCA1,AKT1",HPO,0.0042
+GO:0051973,Positive regulation of telomerase activity,"MAPK1,MYC",Process,0.0042
+GO:1900087,Positive regulation of G1/S transition of mitotic cell cycle,"EGFR,AKT1",Process,0.0042
+GO:0014065,Phosphatidylinositol 3-kinase signaling,"PTEN,AKT1",Process,0.0042
+GO:0071216,Cellular response to biotic stimulus,"MAPK1,TP53,AKT1",Process,0.0042
+GO:0045922,Negative regulation of fatty acid metabolic process,"BRCA1,AKT1",Process,0.0042
+GO:0001893,Maternal placenta development,"MAPK1,AKT1",Process,0.0042
+HP:0006740,Transitional cell carcinoma of the bladder,"PTEN,AKT1",HPO,0.0042
+DOID:3459,Breast carcinoma,"TP53,BRCA1",DISEASES,0.0043
+WP4298,Acute viral myocarditis,"MAPK1,AKT1",WikiPathways,0.0043
+GO:0010629,Negative regulation of gene expression,"CDK2,TP53,BRCA1,AKT1,VEGFA,MYC",Process,0.0044
+HSA-5689880,Ub-specific processing proteases,"TP53,PTEN,MYC",RCTM,0.0044
+HP:0012539,Non-Hodgkin lymphoma,"TP53,MYC",HPO,0.0045
+WP69,T-cell receptor (TCR) signaling pathway,"MAPK1,AKT1",WikiPathways,0.0045
+GO:1903047,Mitotic cell cycle process,"CDK2,TP53,BRCA1,MYC",Process,0.0045
+GO:0043491,Protein kinase B signaling,"PTEN,AKT1",Process,0.0046
+HP:0002197,Generalized-onset seizure,"MAPK1,MTOR,PTEN",HPO,0.0046
+HSA-2559585,Oncogene Induced Senescence,"MAPK1,TP53",RCTM,0.0046
+GO:0048534,Hematopoietic or lymphoid organ development,"MAPK1,TP53,MTOR,VEGFA",Process,0.0046
+WP2355,Corticotropin-releasing hormone signaling pathway,"MAPK1,AKT1",WikiPathways,0.0047
+WP231,TNF-alpha signaling pathway,"MAPK1,AKT1",WikiPathways,0.0047
+HP:0040012,Chromosome breakage,"BRCA1,AKT1",HPO,0.0047
+GO:0032868,Response to insulin,"MTOR,PTEN,AKT1",Process,0.0047
+BTO:0001546,Chronic lymphocytic leukemia cell,"MAPK1,CDK2,BRCA1",TISSUES,0.0047
+hsa05142,Chagas disease,"MAPK1,AKT1",KEGG,0.0047
+hsa04660,T cell receptor signaling pathway,"MAPK1,AKT1",KEGG,0.0048
+hsa04928,"Parathyroid hormone synthesis, secretion and action","MAPK1,EGFR",KEGG,0.0048
+HP:0000478,Abnormality of the eye,"MAPK1,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1",HPO,0.0048
+hsa04659,Th17 cell differentiation,"MAPK1,MTOR",KEGG,0.0048
+hsa04620,Toll-like receptor signaling pathway,"MAPK1,AKT1",KEGG,0.0048
+hsa04625,C-type lectin receptor signaling pathway,"MAPK1,AKT1",KEGG,0.0048
+GO:0051241,Negative regulation of multicellular organismal process,"TP53,EGFR,MTOR,PTEN,MYC",Process,0.0048
+GO:0035924,Cellular response to vascular endothelial growth factor stimulus,"AKT1,VEGFA",Process,0.0049
+GO:0090184,Positive regulation of kidney development,"VEGFA,MYC",Process,0.0049
+GO:0045740,Positive regulation of DNA replication,"CDK2,EGFR",Process,0.0049
+hsa05145,Toxoplasmosis,"MAPK1,AKT1",KEGG,0.0049
+HP:0100543,Cognitive impairment,"MAPK1,TP53,MTOR,PTEN,BRCA1,AKT1",HPO,0.005
+HP:0002101,Abnormal lung lobation,"PTEN,AKT1",HPO,0.005
+GO:0140096,"Catalytic activity, acting on a protein","MAPK1,CDK2,EGFR,MTOR,PTEN,BRCA1,AKT1",Function,0.005
+GO:0040011,Locomotion,"MAPK1,EGFR,PTEN,AKT1,VEGFA",Process,0.0051
+HP:0100579,Mucosal telangiectasiae,"PTEN,AKT1",HPO,0.0052
+KW-0418,Kinase,"MAPK1,CDK2,EGFR,MTOR,AKT1",Keyword,0.0052
+HP:0000463,Anteverted nares,"MAPK1,PTEN,BRCA1,AKT1",HPO,0.0052
+GO:0006508,Proteolysis,"CDK2,TP53,PTEN,BRCA1,MYC",Process,0.0052
+WP4540,Hippo signaling regulation pathways,"EGFR,MTOR",WikiPathways,0.0053
+hsa04725,Cholinergic synapse,"MAPK1,AKT1",KEGG,0.0053
+GO:0045892,"Negative regulation of transcription, DNA-templated","CDK2,TP53,BRCA1,VEGFA,MYC",Process,0.0054
+hsa04668,TNF signaling pathway,"MAPK1,AKT1",KEGG,0.0054
+EFO:0004747,Protein measurement,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA",HPO,0.0054
+HP:0005306,Capillary hemangioma,"PTEN,AKT1",HPO,0.0054
+HP:0004322,Short stature,"TP53,MTOR,PTEN,BRCA1,AKT1",HPO,0.0054
+HP:0002858,Meningioma,"PTEN,AKT1",HPO,0.0054
+WP185,Integrin-mediated cell adhesion,"MAPK1,AKT1",WikiPathways,0.0055
+GO:0045746,Negative regulation of Notch signaling pathway,"EGFR,AKT1",Process,0.0056
+HP:0011025,Abnormal cardiovascular system physiology,"MAPK1,TP53,PTEN,AKT1,MYC",HPO,0.0056
+HP:0100728,Germ cell neoplasia,"TP53,AKT1",HPO,0.0056
+HP:0100646,Thyroiditis,"PTEN,AKT1",HPO,0.0056
+HP:0009928,Thick nasal alae,"PTEN,AKT1",HPO,0.0056
+GO:0071364,Cellular response to epidermal growth factor stimulus,"EGFR,AKT1",Process,0.0056
+GO:0060043,Regulation of cardiac muscle cell proliferation,"MAPK1,PTEN",Process,0.0056
+WP399,Wnt signaling pathway and pluripotency,"TP53,MYC",WikiPathways,0.0056
+GO:0043065,Positive regulation of apoptotic process,"TP53,PTEN,AKT1,MYC",Process,0.0056
+GOCC:0071159,NF-kappaB complex,"TP53,AKT1",COMPARTMENTS,0.0056
+HP:0001780,Abnormality of toe,"MAPK1,PTEN,BRCA1,AKT1",HPO,0.0056
+HP:0000929,Abnormal skull morphology,"MAPK1,TP53,MTOR,PTEN,BRCA1,AKT1",HPO,0.0056
+HP:0000520,Proptosis,"PTEN,BRCA1,AKT1",HPO,0.0057
+HP:0002827,Hip dislocation,"PTEN,BRCA1,AKT1",HPO,0.0057
+GO:0045429,Positive regulation of nitric oxide biosynthetic process,"MTOR,AKT1",Process,0.0057
+GO:0060291,Long-term synaptic potentiation,"MAPK1,PTEN",Process,0.0057
+GO:0031334,Positive regulation of protein-containing complex assembly,"TP53,MTOR,VEGFA",Process,0.0057
+hsa05168,Herpes simplex virus 1 infection,"TP53,MTOR,AKT1",KEGG,0.0057
+HP:0040211,Abnormal skin morphology of the palm,"MTOR,PTEN,AKT1",HPO,0.0057
+HP:0007874,Almond-shaped palpebral fissure,"MAPK1,BRCA1",HPO,0.0057
+HP:0001732,Abnormality of the pancreas,"TP53,BRCA1,MYC",HPO,0.0058
+GO:0003007,Heart morphogenesis,"TP53,MTOR,VEGFA",Process,0.0058
+WP75,Toll-like receptor signaling pathway,"MAPK1,AKT1",WikiPathways,0.0058
+HSA-5689896,Ovarian tumor domain proteases,"TP53,PTEN",RCTM,0.0058
+GO:0097367,Carbohydrate derivative binding,"MAPK1,CDK2,TP53,EGFR,MTOR,AKT1,VEGFA",Function,0.0059
+HP:0001163,Abnormality of the metacarpal bones,"PTEN,AKT1",HPO,0.0059
+HP:0012373,Abnormal eye physiology,"MAPK1,EGFR,PTEN,BRCA1,AKT1",HPO,0.0059
+HP:0012639,Abnormal nervous system morphology,"TP53,PTEN,BRCA1,AKT1",HPO,0.0059
+GO:0034198,Cellular response to amino acid starvation,"MAPK1,MTOR",Process,0.0059
+GO:0019899,Enzyme binding,"MAPK1,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1",Function,0.0059
+GO:0032873,Negative regulation of stress-activated MAPK cascade,"AKT1,MYC",Process,0.0061
+GO:0051898,Negative regulation of protein kinase B signaling,"PTEN,AKT1",Process,0.0061
+hsa04114,Oocyte meiosis,"MAPK1,CDK2",KEGG,0.0061
+hsa04380,Osteoclast differentiation,"MAPK1,AKT1",KEGG,0.0061
+hsa04152,AMPK signaling pathway,"MTOR,AKT1",KEGG,0.0061
+hsa04611,Platelet activation,"MAPK1,AKT1",KEGG,0.0061
+HP:0005922,Abnormal hand morphology,"MTOR,PTEN,BRCA1,AKT1",HPO,0.0061
+GO:0019221,Cytokine-mediated signaling pathway,"TP53,AKT1,VEGFA,MYC",Process,0.0061
+GO:0050999,Regulation of nitric-oxide synthase activity,"EGFR,AKT1",Process,0.0061
+DOID:0060085,Organ system benign neoplasm,"TP53,MTOR,PTEN",DISEASES,0.0062
+HSA-165159,MTOR signalling,"MTOR,AKT1",RCTM,0.0063
+hsa05135,Yersinia infection,"MAPK1,AKT1",KEGG,0.0063
+HP:0001943,Hypoglycemia,"TP53,MTOR,PTEN",HPO,0.0064
+HP:0100707,Abnormal astrocyte morphology,"TP53,MTOR",HPO,0.0064
+HP:0025435,Increased circulating lactate dehydrogenase concentration,"TP53,MYC",HPO,0.0064
+GO:0043406,Positive regulation of MAP kinase activity,"MAPK1,EGFR,VEGFA",Process,0.0065
+HP:0025092,Epidermal acanthosis,"PTEN,AKT1",HPO,0.0066
+GO:0005524,ATP binding,"MAPK1,CDK2,TP53,EGFR,MTOR,AKT1",Function,0.0066
+HP:0002315,Headache,"TP53,PTEN,AKT1",HPO,0.0067
+GO:0051091,Positive regulation of DNA-binding transcription factor activity,"PTEN,AKT1,VEGFA",Process,0.0068
+GO:0050877,Nervous system process,"MAPK1,EGFR,MTOR,PTEN,AKT1",Process,0.0068
+GO:0090199,Regulation of release of cytochrome c from mitochondria,"TP53,AKT1",Process,0.0068
+GO:0035176,Social behavior,"MTOR,PTEN",Process,0.0068
+GO:1905207,Regulation of cardiocyte differentiation,"EGFR,MTOR",Process,0.0068
+HP:0000159,Abnormal lip morphology,"MAPK1,EGFR,BRCA1",HPO,0.0069
+GO:0005161,Platelet-derived growth factor receptor binding,"PTEN,VEGFA",Function,0.0069
+HP:0000218,High palate,"MAPK1,PTEN,BRCA1,AKT1",HPO,0.0069
+GO:0090342,Regulation of cell aging,"TP53,PTEN",Process,0.0069
+GO:0007173,Epidermal growth factor receptor signaling pathway,"EGFR,AKT1",Process,0.0069
+GO:1990090,Cellular response to nerve growth factor stimulus,"PTEN,AKT1",Process,0.0069
+HP:0001760,Abnormal foot morphology,"MAPK1,MTOR,PTEN,BRCA1,AKT1",HPO,0.0071
+HP:0000508,Ptosis,"MAPK1,PTEN,BRCA1,AKT1",HPO,0.0072
+GO:0005515,Protein binding,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Function,0.0072
+hsa05017,Spinocerebellar ataxia,"MTOR,AKT1",KEGG,0.0072
+HP:0000221,Furrowed tongue,"PTEN,AKT1",HPO,0.0073
+BTO:0001488,Endocrine gland,"MAPK1,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",TISSUES,0.0074
+GO:0048146,Positive regulation of fibroblast proliferation,"EGFR,MYC",Process,0.0074
+BTO:0000416,Epithelium,"TP53,PTEN,BRCA1,VEGFA",TISSUES,0.0075
+BTO:0000773,Lymphoblastoid cell line,"TP53,MYC",TISSUES,0.0075
+GO:0007162,Negative regulation of cell adhesion,"PTEN,AKT1,VEGFA",Process,0.0075
+KW-0043,Tumor suppressor,"TP53,PTEN,BRCA1",Keyword,0.0076
+KW-0053,Apoptosis,"MAPK1,TP53,PTEN,AKT1",Keyword,0.0076
+KW-0024,Alternative initiation,"PTEN,BRCA1,VEGFA",Keyword,0.0076
+KW-0808,Transferase,"MAPK1,CDK2,EGFR,MTOR,BRCA1,AKT1",Keyword,0.0076
+KW-0723,Serine/threonine-protein kinase,"MAPK1,CDK2,MTOR,AKT1",Keyword,0.0076
+KW-1017,Isopeptide bond,"TP53,EGFR,PTEN,BRCA1,AKT1,MYC",Keyword,0.0076
+WP4541,Hippo-Merlin signaling dysregulation,"EGFR,MYC",WikiPathways,0.0076
+HP:0000347,Micrognathia,"MAPK1,PTEN,BRCA1,AKT1",HPO,0.0076
+KW-0007,Acetylation,"MAPK1,CDK2,TP53,MTOR,PTEN,BRCA1,AKT1,MYC",Keyword,0.0076
+WP4657,22q11.2 copy number variation syndrome,"TP53,EGFR",WikiPathways,0.0076
+KW-0832,Ubl conjugation,"MAPK1,TP53,EGFR,PTEN,BRCA1,AKT1,MYC",Keyword,0.0076
+KW-0539,Nucleus,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,MYC",Keyword,0.0076
+GO:0000186,Activation of MAPKK activity,"MAPK1,EGFR",Process,0.0077
+HP:0000853,Goiter,"PTEN,AKT1",HPO,0.0082
+GO:0007420,Brain development,"TP53,EGFR,MTOR,PTEN",Process,0.0082
+GO:0048708,Astrocyte differentiation,"MAPK1,EGFR",Process,0.0082
+HP:0007440,Generalized hyperpigmentation,"PTEN,AKT1",HPO,0.0082
+HSA-76002,"Platelet activation, signaling and aggregation","MAPK1,AKT1,VEGFA",RCTM,0.0083
+HP:0000481,Abnormal cornea morphology,"EGFR,PTEN,BRCA1,AKT1",HPO,0.0083
+HP:0007700,Ocular anterior segment dysgenesis,"PTEN,BRCA1,AKT1",HPO,0.0084
+GO:0043536,Positive regulation of blood vessel endothelial cell migration,"AKT1,VEGFA",Process,0.0084
+GO:0031647,Regulation of protein stability,"MAPK1,TP53,PTEN",Process,0.0084
+hsa04261,Adrenergic signaling in cardiomyocytes,"MAPK1,AKT1",KEGG,0.0084
+GO:0070228,Regulation of lymphocyte apoptotic process,"TP53,PTEN",Process,0.0084
+GO:0051348,Negative regulation of transferase activity,"TP53,PTEN,AKT1",Process,0.0084
+GO:0006996,Organelle organization,"CDK2,TP53,MTOR,PTEN,BRCA1,AKT1,MYC",Process,0.0085
+GO:2000378,Negative regulation of reactive oxygen species metabolic process,"TP53,BRCA1",Process,0.0086
+GO:0019903,Protein phosphatase binding,"TP53,EGFR,AKT1",Function,0.0086
+GO:0061180,Mammary gland epithelium development,"MAPK1,AKT1",Process,0.0086
+GO:0008637,Apoptotic mitochondrial changes,"TP53,AKT1",Process,0.0086
+GO:0055013,Cardiac muscle cell development,"MTOR,VEGFA",Process,0.0086
+hsa04921,Oxytocin signaling pathway,"MAPK1,EGFR",KEGG,0.0086
+HP:0000873,Diabetes insipidus,"PTEN,AKT1",HPO,0.0087
+HP:0100887,Abnormality of globe size,"PTEN,BRCA1,AKT1",HPO,0.0087
+HP:0001507,Growth abnormality,"MAPK1,TP53,MTOR,PTEN,BRCA1,AKT1",HPO,0.0087
+GO:0010332,Response to gamma radiation,"TP53,MYC",Process,0.0089
+HP:0100649,Neoplasm of the oral cavity,"AKT1,MYC",HPO,0.009
+BTO:0000174,Embryonic structure,"CDK2,TP53,EGFR,BRCA1,VEGFA,MYC",TISSUES,0.0091
+hsa04310,Wnt signaling pathway,"TP53,MYC",KEGG,0.0091
+GO:1902041,Regulation of extrinsic apoptotic signaling pathway via death domain receptors,"PTEN,BRCA1",Process,0.0091
+GO:0006977,"DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest","CDK2,TP53",Process,0.0091
+HP:0002167,Neurological speech impairment,"MAPK1,MTOR,PTEN,BRCA1,AKT1",HPO,0.0093
+HP:0000189,Narrow palate,"PTEN,BRCA1",HPO,0.0093
+DOID:863,Nervous system disease,"CDK2,TP53,EGFR,MTOR,PTEN,VEGFA",DISEASES,0.0093
+HP:0000567,Chorioretinal coloboma,"PTEN,AKT1",HPO,0.0093
+GO:0035690,Cellular response to drug,"TP53,MYC",Process,0.0094
+HP:0006824,Cranial nerve paralysis,"PTEN,BRCA1,AKT1",HPO,0.0095
+GO:0010823,Negative regulation of mitochondrion organization,"TP53,AKT1",Process,0.0098
+HP:0012443,Abnormality of brain morphology,"MAPK1,TP53,MTOR,PTEN,BRCA1,AKT1",HPO,0.0098
+GO:0001655,Urogenital system development,"PTEN,VEGFA,MYC",Process,0.0098
+GO:0001525,Angiogenesis,"PTEN,AKT1,VEGFA",Process,0.0098
+GO:1903078,Positive regulation of protein localization to plasma membrane,"EGFR,AKT1",Process,0.0098
+GO:0016605,PML body,"TP53,MTOR,PTEN",Component,0.0099
+GO:0016604,Nuclear body,"CDK2,TP53,MTOR,PTEN,BRCA1",Component,0.0099
+hsa04022,cGMP-PKG signaling pathway,"MAPK1,AKT1",KEGG,0.0099
+GO:0070013,Intracellular organelle lumen,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",Component,0.0099
+GO:0005815,Microtubule organizing center,"MAPK1,CDK2,TP53,BRCA1,AKT1",Component,0.0099
+HP:0003199,Decreased muscle mass,"PTEN,AKT1",HPO,0.01
+GO:0051893,Regulation of focal adhesion assembly,"PTEN,VEGFA",Process,0.01
+GO:1901214,Regulation of neuron death,"TP53,MTOR,AKT1",Process,0.01
+GO:0061024,Membrane organization,"TP53,EGFR,PTEN,AKT1",Process,0.01
+GO:0006928,Movement of cell or subcellular component,"MAPK1,EGFR,PTEN,AKT1,VEGFA",Process,0.0101
+WP1449,Regulation of toll-like receptor signaling pathway,"MAPK1,AKT1",WikiPathways,0.0101
+WP5083,Neuroinflammation and glutamatergic signaling,"MAPK1,AKT1",WikiPathways,0.0102
+hsa05164,Influenza A,"MAPK1,AKT1",KEGG,0.0102
+HP:0002894,Neoplasm of the pancreas,"TP53,BRCA1",HPO,0.0104
+hsa05152,Tuberculosis,"MAPK1,AKT1",KEGG,0.0104
+GO:0043086,Negative regulation of catalytic activity,"TP53,PTEN,AKT1,VEGFA",Process,0.0104
+GO:0002682,Regulation of immune system process,"MAPK1,MTOR,AKT1,VEGFA,MYC",Process,0.0105
+HP:0011339,Abnormality of upper lip vermillion,"MAPK1,BRCA1",HPO,0.0107
+hsa05202,Transcriptional misregulation in cancer,"TP53,MYC",KEGG,0.0107
+GO:0099524,Postsynaptic cytosol,"MTOR,PTEN",Component,0.0108
+HSA-912446,Meiotic recombination,"CDK2,BRCA1",RCTM,0.0108
+GO:0007569,Cell aging,"TP53,MTOR",Process,0.0109
+GO:0002286,T cell activation involved in immune response,"TP53,MTOR",Process,0.0109
+KW-0656,Proto-oncogene,"EGFR,AKT1,MYC",Keyword,0.011
+HP:0000765,Abnormal thorax morphology,"MAPK1,MTOR,PTEN,AKT1",HPO,0.011
+HP:0004209,Clinodactyly of the 5th finger,"PTEN,BRCA1,AKT1",HPO,0.011
+GO:0010721,Negative regulation of cell development,"TP53,PTEN,VEGFA",Process,0.011
+GO:1901653,Cellular response to peptide,"TP53,PTEN,AKT1",Process,0.0111
+GO:0046824,Positive regulation of nucleocytoplasmic transport,"MAPK1,TP53",Process,0.0111
+GO:0031646,Positive regulation of nervous system process,"MTOR,PTEN",Process,0.0111
+HP:0011893,Abnormal leukocyte count,"PTEN,BRCA1,MYC",HPO,0.0111
+EFO:0000319,Cardiovascular disease,"MAPK1,TP53,EGFR",HPO,0.0111
+HP:0004326,Cachexia,"PTEN,AKT1",HPO,0.0112
+DOID:10283,Prostate cancer,"PTEN,BRCA1",DISEASES,0.0113
+WP51,Regulation of actin cytoskeleton,"MAPK1,EGFR",WikiPathways,0.0114
+GO:0014823,Response to activity,"MTOR,PTEN",Process,0.0116
+GO:0002521,Leukocyte differentiation,"TP53,MTOR,VEGFA",Process,0.0116
+GO:0071230,Cellular response to amino acid stimulus,"EGFR,MTOR",Process,0.0116
+EFO:0009552,Hemorrhoid,"TP53,EGFR",HPO,0.0118
+HP:0001085,Papilledema,"TP53,AKT1",HPO,0.0118
+KW-0131,Cell cycle,"MAPK1,CDK2,TP53,BRCA1",Keyword,0.012
+GO:0008630,Intrinsic apoptotic signaling pathway in response to DNA damage,"TP53,BRCA1",Process,0.0121
+HP:0001873,Thrombocytopenia,"TP53,MTOR,BRCA1",HPO,0.0121
+GO:0045739,Positive regulation of DNA repair,"EGFR,BRCA1",Process,0.0121
+HSA-9616222,Transcriptional regulation of granulopoiesis,"CDK2,MYC",RCTM,0.0122
+HP:0005584,Renal cell carcinoma,"PTEN,AKT1",HPO,0.0123
+HP:0001822,Hallux valgus,"PTEN,AKT1",HPO,0.0123
+HP:0002014,Diarrhea,"TP53,EGFR,PTEN",HPO,0.0123
+HP:0001763,Pes planus,"MAPK1,MTOR,BRCA1",HPO,0.0123
+HP:0000995,Melanocytic nevus,"PTEN,AKT1",HPO,0.0123
+HP:0006753,Neoplasm of the stomach,"TP53,AKT1",HPO,0.0123
+hsa04062,Chemokine signaling pathway,"MAPK1,AKT1",KEGG,0.0124
+HP:0002516,Increased intracranial pressure,"PTEN,AKT1",HPO,0.0124
+HP:0001482,Subcutaneous nodule,"PTEN,AKT1",HPO,0.0124
+HSA-5693565,Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks,"TP53,BRCA1",RCTM,0.0125
+HSA-2559586,DNA Damage/Telomere Stress Induced Senescence,"CDK2,TP53",RCTM,0.0126
+HP:0003330,Abnormal bone structure,"TP53,PTEN,AKT1",HPO,0.0127
+GO:0051222,Positive regulation of protein transport,"MAPK1,TP53,EGFR",Process,0.0128
+GO:0043627,Response to estrogen,"MAPK1,BRCA1",Process,0.0129
+HSA-5683057,MAPK family signaling cascades,"MAPK1,EGFR,MYC",RCTM,0.013
+HSA-69563,p53-Dependent G1 DNA Damage Response,"CDK2,TP53",RCTM,0.013
+BTO:0000669,Embryonic cell line,"TP53,MYC",TISSUES,0.013
+GO:0045861,Negative regulation of proteolysis,"TP53,AKT1,VEGFA",Process,0.0131
+HP:0200034,Papule,"PTEN,AKT1",HPO,0.0133
+HSA-6796648,TP53 Regulates Transcription of DNA Repair Genes,"TP53,BRCA1",RCTM,0.0134
+GO:0031329,Regulation of cellular catabolic process,"TP53,MTOR,PTEN,AKT1",Process,0.0134
+HP:0004323,Abnormality of body weight,"TP53,MTOR,PTEN,BRCA1,AKT1",HPO,0.0135
+GO:0031397,Negative regulation of protein ubiquitination,"MTOR,AKT1",Process,0.0136
+HP:0010609,Skin tags,"PTEN,AKT1",HPO,0.0136
+WP3929,Chemokine signaling pathway,"MAPK1,AKT1",WikiPathways,0.0136
+HSA-8948751,Regulation of PTEN stability and activity,"PTEN,AKT1",RCTM,0.0137
+HP:0001519,Disproportionate tall stature,"PTEN,AKT1",HPO,0.0139
+GO:0034103,Regulation of tissue remodeling,"TP53,EGFR",Process,0.0139
+HP:0000343,Long philtrum,"MAPK1,MTOR,PTEN",HPO,0.0141
+HP:0002007,Frontal bossing,"MTOR,PTEN,BRCA1",HPO,0.0141
+HP:0000164,Abnormality of the dentition,"MAPK1,PTEN,BRCA1,AKT1",HPO,0.0141
+GO:0060998,Regulation of dendritic spine development,"MTOR,PTEN",Process,0.0142
+HP:0001269,Hemiparesis,"MTOR,AKT1",HPO,0.0144
+GO:0000122,Negative regulation of transcription by RNA polymerase II,"CDK2,TP53,VEGFA,MYC",Process,0.0144
+GOCC:0031982,Vesicle,"MAPK1,CDK2,EGFR,MTOR,AKT1,VEGFA",COMPARTMENTS,0.0144
+GO:0000165,MAPK cascade,"MAPK1,EGFR,MYC",Process,0.0145
+GO:0016477,Cell migration,"EGFR,PTEN,AKT1,VEGFA",Process,0.0145
+GO:0071260,Cellular response to mechanical stimulus,"EGFR,AKT1",Process,0.0145
+GO:1900034,Regulation of cellular response to heat,"MAPK1,MTOR",Process,0.0145
+DOID:5679,Retinal disease,"CDK2,TP53,VEGFA",DISEASES,0.0146
+HP:0002650,Scoliosis,"MAPK1,PTEN,BRCA1,AKT1",HPO,0.0146
+HP:0012210,Abnormal renal morphology,"MAPK1,PTEN,BRCA1,AKT1",HPO,0.0147
+HP:0000525,Abnormality iris morphology,"MAPK1,PTEN,BRCA1",HPO,0.0147
+HP:0001645,Sudden cardiac death,"PTEN,AKT1",HPO,0.0147
+GO:0043168,Anion binding,"MAPK1,CDK2,TP53,EGFR,MTOR,AKT1,VEGFA",Function,0.0148
+HP:0011354,Generalized abnormality of skin,"EGFR,PTEN,AKT1",HPO,0.0149
+GO:0045862,Positive regulation of proteolysis,"PTEN,AKT1,MYC",Process,0.0151
+GO:0045666,Positive regulation of neuron differentiation,"MTOR,PTEN,VEGFA",Process,0.0151
+GO:0007098,Centrosome cycle,"CDK2,BRCA1",Process,0.0151
+HP:0012719,Functional abnormality of the gastrointestinal tract,"MAPK1,EGFR,PTEN,MYC",HPO,0.0152
+hsa04024,cAMP signaling pathway,"MAPK1,AKT1",KEGG,0.0153
+hsa04810,Regulation of actin cytoskeleton,"MAPK1,EGFR",KEGG,0.0153
+GOCC:0031983,Vesicle lumen,"MAPK1,EGFR,VEGFA",COMPARTMENTS,0.0153
+GO:0006970,Response to osmotic stress,"TP53,EGFR",Process,0.0154
+GO:1900182,Positive regulation of protein localization to nucleus,"MAPK1,AKT1",Process,0.0154
+GO:0006139,Nucleobase-containing compound metabolic process,"MAPK1,CDK2,TP53,MTOR,PTEN,BRCA1",Process,0.0155
+GO:0032204,Regulation of telomere maintenance,"MAPK1,MYC",Process,0.0156
+GO:0034644,Cellular response to UV,"TP53,MYC",Process,0.0156
+GO:0007409,Axonogenesis,"MAPK1,PTEN,VEGFA",Process,0.0157
+GO:0044281,Small molecule metabolic process,"MAPK1,MTOR,PTEN,BRCA1,AKT1",Process,0.0157
+HP:0001595,Abnormal hair morphology,"MAPK1,EGFR,MTOR,BRCA1",HPO,0.016
+GO:0046889,Positive regulation of lipid biosynthetic process,"MTOR,AKT1",Process,0.0162
+GO:0043154,Negative regulation of cysteine-type endopeptidase activity involved in apoptotic process,"AKT1,VEGFA",Process,0.0162
+GO:0048589,Developmental growth,"TP53,MTOR,PTEN",Process,0.0162
+HP:0025142,Constitutional symptom,"TP53,PTEN,AKT1,MYC",HPO,0.0163
+GO:0051721,Protein phosphatase 2A binding,"TP53,AKT1",Function,0.0163
+KW-0067,ATP-binding,"MAPK1,CDK2,EGFR,MTOR,AKT1",Keyword,0.0164
+GO:0090559,Regulation of membrane permeability,"TP53,MTOR",Process,0.0165
+GO:0035264,Multicellular organism growth,"TP53,MTOR",Process,0.0165
+GO:0009791,Post-embryonic development,"MTOR,VEGFA",Process,0.0165
+WP2877,Vitamin D receptor pathway,"CDK2,MYC",WikiPathways,0.0166
+HP:0001250,Seizure,"MAPK1,TP53,MTOR,PTEN,AKT1",HPO,0.0166
+GO:0042058,Regulation of epidermal growth factor receptor signaling pathway,"EGFR,AKT1",Process,0.0167
+EFO:0003843,Pain,"TP53,AKT1,MYC",HPO,0.0167
+GO:0010639,Negative regulation of organelle organization,"TP53,BRCA1,AKT1",Process,0.0167
+EFO:0004526,Mean corpuscular volume,"TP53,EGFR,MTOR,PTEN",HPO,0.0168
+EFO:0004306,Erythrocyte indices,"TP53,EGFR,MTOR,PTEN,VEGFA",HPO,0.0169
+HP:0004324,Increased body weight,"MTOR,PTEN,AKT1",HPO,0.017
+GO:0006417,Regulation of translation,"MAPK1,MTOR,AKT1",Process,0.017
+GO:0110110,Positive regulation of animal organ morphogenesis,"VEGFA,MYC",Process,0.0173
+GO:0005654,Nucleoplasm,"MAPK1,CDK2,TP53,MTOR,PTEN,BRCA1,AKT1,MYC",Component,0.0174
+HP:0000539,Abnormality of refraction,"EGFR,PTEN,BRCA1,AKT1",HPO,0.0177
+GO:0010717,Regulation of epithelial to mesenchymal transition,"MTOR,PTEN",Process,0.0177
+HP:0001392,Abnormality of the liver,"TP53,PTEN,BRCA1,MYC",HPO,0.0181
+HSA-69473,G2/M DNA damage checkpoint,"TP53,BRCA1",RCTM,0.0181
+GO:0044703,Multi-organism reproductive process,"MAPK1,MTOR,PTEN,AKT1",Process,0.0184
+HP:0000486,Strabismus,"MTOR,PTEN,BRCA1,AKT1",HPO,0.0184
+HP:0001249,Intellectual disability,"MAPK1,MTOR,PTEN,BRCA1,AKT1",HPO,0.0184
+HP:0002080,Intention tremor,"PTEN,AKT1",HPO,0.0187
+HP:0002795,Abnormal respiratory system physiology,"MTOR,PTEN,AKT1",HPO,0.0187
+HSA-2559582,Senescence-Associated Secretory Phenotype (SASP),"MAPK1,CDK2",RCTM,0.0188
+GO:0042176,Regulation of protein catabolic process,"EGFR,PTEN,AKT1",Process,0.0189
+HSA-5693607,Processing of DNA double-strand break ends,"CDK2,BRCA1",RCTM,0.0191
+GO:0007268,Chemical synaptic transmission,"MAPK1,PTEN,AKT1",Process,0.0192
+GO:1901655,Cellular response to ketone,"EGFR,AKT1",Process,0.0193
+HP:0000771,Gynecomastia,"PTEN,AKT1",HPO,0.0194
+WP3594,Circadian rhythm genes,"TP53,PTEN",WikiPathways,0.0196
+HP:0002060,Abnormal cerebral morphology,"MAPK1,MTOR,PTEN",HPO,0.0196
+GO:0045597,Positive regulation of cell differentiation,"MTOR,PTEN,AKT1,VEGFA",Process,0.0197
+HP:0002539,Cortical dysplasia,"MTOR,PTEN",HPO,0.0198
+GO:0006606,Protein import into nucleus,"TP53,AKT1",Process,0.0199
+GO:0002690,Positive regulation of leukocyte chemotaxis,"MAPK1,VEGFA",Process,0.0202
+GO:1901216,Positive regulation of neuron death,"TP53,MTOR",Process,0.0202
+HP:0001597,Abnormality of the nail,"EGFR,PTEN,AKT1",HPO,0.0207
+GOCC:0043227,Membrane-bounded organelle,"MAPK1,CDK2,TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA,MYC",COMPARTMENTS,0.0209
+GO:0002009,Morphogenesis of an epithelium,"EGFR,VEGFA,MYC",Process,0.0211
+GO:0044877,Protein-containing complex binding,"TP53,EGFR,MTOR,PTEN,MYC",Function,0.0217
+HP:0040070,Abnormal upper limb bone morphology,"PTEN,BRCA1,AKT1",HPO,0.0219
+DOID:1115,Sarcoma,"TP53,MYC",DISEASES,0.0223
+HSA-3371556,Cellular response to heat stress,"MAPK1,MTOR",RCTM,0.0224
+IPR011009,Protein kinase-like domain superfamily,"MAPK1,CDK2,EGFR,MTOR,AKT1",InterPro,0.0224
+GO:0051346,Negative regulation of hydrolase activity,"TP53,AKT1,VEGFA",Process,0.0227
+HP:0000311,Round face,"PTEN,AKT1",HPO,0.0227
+EFO:0010701,Mean reticulocyte volume,"TP53,MTOR,PTEN",HPO,0.0228
+GO:2001237,Negative regulation of extrinsic apoptotic signaling pathway,"BRCA1,AKT1",Process,0.0228
+HP:0011927,Short digit,"MTOR,PTEN,AKT1",HPO,0.0231
+HP:0000256,Macrocephaly,"MTOR,PTEN,AKT1",HPO,0.024
+HP:0012531,Pain,"TP53,AKT1",HPO,0.024
+HSA-2559580,Oxidative Stress Induced Senescence,"MAPK1,TP53",RCTM,0.0241
+HSA-8878159,Transcriptional regulation by RUNX3,"TP53,MYC",RCTM,0.0241
+GO:0140296,General transcription initiation factor binding,"TP53,MTOR",Function,0.0242
+GO:0018130,Heterocycle biosynthetic process,"MAPK1,TP53,MTOR,PTEN",Process,0.0243
+GO:0021510,Spinal cord development,"MTOR,AKT1",Process,0.0244
+HP:0009810,Abnormality of upper limb joint,"MAPK1,PTEN,AKT1",HPO,0.0246
+HP:0000505,Visual impairment,"TP53,PTEN,BRCA1,AKT1",HPO,0.0249
+BTO:0003099,Internal female genital organ,"CDK2,TP53,EGFR,BRCA1,AKT1,MYC",TISSUES,0.025
+GO:0001775,Cell activation,"MAPK1,TP53,EGFR,MTOR",Process,0.0252
+GO:0072593,Reactive oxygen species metabolic process,"EGFR,AKT1",Process,0.0252
+GO:0051641,Cellular localization,"MAPK1,TP53,EGFR,MTOR,AKT1,VEGFA",Process,0.0252
+HP:0002863,Myelodysplasia,"TP53,BRCA1",HPO,0.0256
+GO:2000060,Positive regulation of ubiquitin-dependent protein catabolic process,"PTEN,AKT1",Process,0.0262
+GO:0004712,Protein serine/threonine/tyrosine kinase activity,"MAPK1,AKT1",Function,0.0262
+HP:0003270,Abdominal distention,"TP53,MTOR",HPO,0.0266
+GO:0016740,Transferase activity,"MAPK1,CDK2,EGFR,MTOR,BRCA1,AKT1",Function,0.0267
+GO:0001046,Core promoter sequence-specific DNA binding,"TP53,MYC",Function,0.0267
+GO:0042752,Regulation of circadian rhythm,"TP53,MTOR",Process,0.0269
+EFO:0004586,Complete blood cell count,"TP53,EGFR,PTEN,BRCA1,AKT1,VEGFA",HPO,0.0271
+GO:0035270,Endocrine system development,"MAPK1,AKT1",Process,0.028
+HP:0000729,Autistic behavior,"MTOR,PTEN,AKT1",HPO,0.028
+GO:0008283,Cell population proliferation,"MAPK1,TP53,AKT1",Process,0.0283
+GO:0002761,Regulation of myeloid leukocyte differentiation,"MTOR,MYC",Process,0.0284
+HP:0100022,Abnormality of movement,"TP53,MTOR,PTEN,BRCA1,AKT1",HPO,0.0287
+HP:0000327,Hypoplasia of the maxilla,"PTEN,AKT1",HPO,0.0288
+GO:0007613,Memory,"MTOR,PTEN",Process,0.0288
+hsa05016,Huntington disease,"TP53,MTOR",KEGG,0.0299
+DOID:0060058,Lymphoma,"TP53,MYC",DISEASES,0.0302
+GO:0019904,Protein domain specific binding,"CDK2,TP53,MTOR,PTEN",Function,0.0304
+GO:0031398,Positive regulation of protein ubiquitination,"PTEN,BRCA1",Process,0.0305
+HP:0000708,Behavioral abnormality,"MAPK1,TP53,MTOR,PTEN,AKT1",HPO,0.031
+GO:0032103,Positive regulation of response to external stimulus,"MAPK1,EGFR,VEGFA",Process,0.0311
+GO:0000082,G1/S transition of mitotic cell cycle,"CDK2,MYC",Process,0.0314
+HP:0002239,Gastrointestinal hemorrhage,"PTEN,MYC",HPO,0.0317
+HP:0002269,Abnormality of neuronal migration,"MTOR,PTEN,AKT1",HPO,0.0317
+GO:0030054,Cell junction,"MAPK1,EGFR,MTOR,PTEN,AKT1,VEGFA",Component,0.0318
+HP:0000818,Abnormality of the endocrine system,"TP53,PTEN,BRCA1,AKT1",HPO,0.0318
+GO:0098794,Postsynapse,"MAPK1,MTOR,PTEN,AKT1",Component,0.0318
+HP:0000252,Microcephaly,"MAPK1,TP53,PTEN,BRCA1",HPO,0.0326
+HP:0000158,Macroglossia,"PTEN,AKT1",HPO,0.0326
+GO:0006281,DNA repair,"CDK2,TP53,BRCA1",Process,0.0326
+GO:0045727,Positive regulation of translation,"MAPK1,MTOR",Process,0.0326
+GO:0048754,Branching morphogenesis of an epithelial tube,"VEGFA,MYC",Process,0.0326
+GO:0009056,Catabolic process,"CDK2,TP53,MTOR,PTEN,AKT1",Process,0.0326
+HP:0001888,Lymphopenia,"PTEN,MYC",HPO,0.0329
+GO:0051234,Establishment of localization,"MAPK1,CDK2,TP53,EGFR,AKT1,VEGFA,MYC",Process,0.0331
+GO:0045598,Regulation of fat cell differentiation,"MTOR,AKT1",Process,0.0333
+HP:0002282,Gray matter heterotopia,"PTEN,AKT1",HPO,0.0337
+EFO:0007985,Platelet crit,"EGFR,PTEN,VEGFA",HPO,0.0337
+HP:0004374,Hemiplegia/hemiparesis,"TP53,PTEN",HPO,0.0341
+GO:0071901,Negative regulation of protein serine/threonine kinase activity,"PTEN,AKT1",Process,0.0347
+GO:0031625,Ubiquitin protein ligase binding,"TP53,EGFR,BRCA1",Function,0.0362
+HP:0003019,Abnormality of the wrist,"PTEN,AKT1",HPO,0.0364
+GO:0051493,Regulation of cytoskeleton organization,"MAPK1,MTOR,BRCA1",Process,0.0365
+HSA-8878166,Transcriptional regulation by RUNX2,"MAPK1,AKT1",RCTM,0.0367
+GO:1901362,Organic cyclic compound biosynthetic process,"MAPK1,TP53,MTOR,PTEN",Process,0.0368
+GO:0060627,Regulation of vesicle-mediated transport,"MAPK1,PTEN,VEGFA",Process,0.0372
+GO:0032355,Response to estradiol,"EGFR,PTEN",Process,0.0372
+HP:0000492,Abnormal eyelid morphology,"MAPK1,EGFR,BRCA1",HPO,0.0376
+HP:0002170,Intracranial hemorrhage,"PTEN,AKT1",HPO,0.0383
+GO:0045202,Synapse,"MAPK1,EGFR,MTOR,PTEN,AKT1",Component,0.0388
+GO:0007423,Sensory organ development,"MAPK1,EGFR,VEGFA",Process,0.0392
+HP:0000080,Abnormality of reproductive system physiology,"TP53,BRCA1,AKT1",HPO,0.0392
+HP:0000464,Abnormality of the neck,"MAPK1,PTEN,AKT1",HPO,0.0393
+HP:0005280,Depressed nasal bridge,"MTOR,PTEN,AKT1",HPO,0.0394
+HP:0005918,Abnormal finger phalanx morphology,"MTOR,PTEN,BRCA1",HPO,0.0402
+hsa05014,Amyotrophic lateral sclerosis,"TP53,MTOR",KEGG,0.0407
+HP:0000670,Carious teeth,"PTEN,AKT1",HPO,0.0408
+HP:0000717,Autism,"PTEN,AKT1",HPO,0.0414
+EFO:0004308,Leukocyte count,"TP53,EGFR,PTEN,BRCA1,AKT1",HPO,0.0431
+GO:0048863,Stem cell differentiation,"MAPK1,TP53",Process,0.0437
+HP:0011804,Abnormal muscle physiology,"MAPK1,TP53,MTOR,PTEN,AKT1",HPO,0.0446
+GO:0007584,Response to nutrient,"EGFR,MTOR",Process,0.0457
+EFO:0004528,Mean corpuscular hemoglobin concentration,"TP53,EGFR,PTEN",HPO,0.0462
+HP:0000712,Emotional lability,"TP53,AKT1",HPO,0.0468
+HP:0011314,Abnormality of long bone morphology,"TP53,PTEN,BRCA1",HPO,0.047
+WP2882,Nuclear receptors meta-pathway,"EGFR,MYC",WikiPathways,0.0472
+KW-9995,Disease,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,MYC",Keyword,0.0473
+KW-0877,Alternative promoter usage,"TP53,VEGFA",Keyword,0.0473
+GO:2001242,Regulation of intrinsic apoptotic signaling pathway,"TP53,AKT1",Process,0.0477
+BTO:0000759,Liver,"MAPK1,EGFR,MTOR,PTEN,AKT1",TISSUES,0.0477
+EFO:0004503,Hematological measurement,"TP53,EGFR,MTOR,PTEN,BRCA1,AKT1,VEGFA",HPO,0.0483
+GO:0044262,Cellular carbohydrate metabolic process,"PTEN,AKT1",Process,0.0486
+EFO:0004509,Hemoglobin measurement,"TP53,EGFR,PTEN,VEGFA",HPO,0.0488
+EFO:0004872,Inflammatory biomarker measurement,"MAPK1,PTEN,AKT1,VEGFA",HPO,0.049
+BTO:0000083,Female reproductive system,"MAPK1,CDK2,TP53,EGFR,BRCA1,AKT1,VEGFA,MYC",TISSUES,0.0497

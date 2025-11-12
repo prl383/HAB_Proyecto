@@ -110,25 +110,12 @@ python scripts/plot_results.py -d results/ -o results/plots/ --top 15
 
 *   **Ejemplo con RWR:**
     ```bash
-    python scripts/network_propagation.py \
-      --network data/string_network.tsv \
-      --format string \
-      --seeds data/genes_seed.txt \
-      --algo rwr \
-      --outdir results \
-      --min-score 700  # Opcional: filtrar interacciones fuertes
+    python scripts\network_propagation.py --network data\string_network_filtered_hugo-400.tsv --format string --seeds data\genes_input.txt --algo rwr --outdir results --min-score 700
     ```
 
 *   **Ejemplo con DIAMOnD:**
     ```bash
-    python scripts/network_propagation.py \
-      --network data/string_network.tsv \
-      --format string \
-      --seeds data/genes_seed.txt \
-      --algo diamond \
-      --outdir results \
-      --steps 50       # Número de nodos a añadir
-      --min-score 700
+    python scripts\network_propagation.py --network data\string_network_filtered_hugo-400.tsv --format string --seeds data\genes_input.txt --algo diamond --outdir results --steps 20 --min-score 700
     ```
 
 **3. Visualizar los resultados de la propagación**

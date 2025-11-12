@@ -1,2 +1,6 @@
+pandas
+numpy
+requests
+gprofiler-official
 
 
